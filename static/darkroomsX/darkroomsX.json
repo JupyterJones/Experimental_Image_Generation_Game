@@ -1,0 +1,145 @@
+{
+  "current_frame": 262,
+  "frames_total": 500,
+  "seed": 123456,
+  "prompt": "The fluorescent lights overhead begin to flicker wildly, casting erratic shadows on the walls as the air grows charged with electricity. The atmosphere thickens with anticipation.",
+  "original_starting_prompt": "The fluorescent lights overhead begin to flicker wildly, casting erratic shadows on the walls as the air grows charged with electricity. The atmosphere thickens with anticipation.",
+  "negative_prompt": "low quality, blurry, bare breasts, nipples, large breasts, NSFW, deformed fingers",
+  "model": "aiREalistic_aIllust.safetensors",
+  "lora1": "None",
+  "lora2": "None",
+  "lora3": "None",
+  "denoise": 0.3,
+  "keyframes": {
+    "0": {
+      "denoise": 0.3,
+      "prompt": "A dimly lit, flooded basement room with cold, stagnant water pooling on the floor, surrounded by scattered debris, cobwebs clinging to crumbling brick walls, and a faint glow of luminescent mushrooms growing in the damp corners.",
+      "seed_offset": -5
+    },
+    "50": {
+      "denoise": 0.4,
+      "prompt": "A dimly lit hallway stretching out before, lined with peeling wallpaper, flickering fluorescent lights humming overhead, and a heavy metal door labeled 'EXIT' in bold red letters, emblazoned across the entrance like a warning sign.",
+      "seed_offset": -2
+    },
+    "100": {
+      "denoise": 0.35,
+      "prompt": "The staircase curves downward into darkness, its concrete surface slick with moisture and oil stains, the air thick with the scent of damp earth and decay. Flickering fluorescent lights above cast eerie shadows on the walls as the figure begins their descent.",
+      "seed_offset": -1
+    },
+    "115": {
+      "denoise": 0.9,
+      "prompt": "create an underwater scene, deep in the ocean with coral, slight beams of volumetric light from above, fish, jellyfish, and a distant sunken wooden ship, sea animals and deep sea artifacts.",
+      "seed_offset": 13
+    },
+    "123": {
+      "denoise": 0.85,
+      "prompt": "a view from a spaceship observation window, glowing nebulae, drift between spiral galaxies, brilliant stars, distant planets, semi transparent cosmic creatures similar to the ancient sea monster images ",
+      "seed_offset": 10
+    },
+    "125": {
+      "denoise": 0.45,
+      "prompt": "The hallway stretches out before, lined with peeling wallpaper and flickering fluorescent lights humming overhead. The heavy metal door labeled 'EXIT' in bold red letters sits imposingly across the entrance, its surface scarred and rusted.",
+      "seed_offset": 2
+    },
+    "127": {
+      "denoise": 0.85,
+      "prompt": "Through a rectangular  viewport on a metallic spacecraft, gaze upon a swirling vortex of iridescent nebulae, where gelatinous tendrils of light dance amidst stardust and gas. Drift between galaxies, stars twinkle like diamonds against deep indigo; distant planets cast long shadows on ethereal landscapes, home to luminous, jellyfish-like cosmic creatures",
+      "seed_offset": 0
+    },
+    "150": {
+      "denoise": 0.5,
+      "prompt": "The concrete staircase winds downward into darkness, lit only by a few scattered luminescent mushrooms growing in the damp corners of the walls. The air is thick with the scent of damp earth and decay.",
+      "seed_offset": 4
+    },
+    "165": {
+      "denoise": 0.55,
+      "prompt": "The yellow-walled corridor stretches out before, lined with flickering fluorescent lights casting eerie shadows on the walls. The air is thick with an unsettling silence, punctuated only by the soft hum of the lights.",
+      "seed_offset": 6
+    },
+    "180": {
+      "denoise": 0.6,
+      "prompt": "view a dirty room filled with abandoned office equipment, trash on the floor. ",
+      "seed_offset": 12
+    },
+    "200": {
+      "denoise": 0.65,
+      "prompt": "The abandoned office space stretches out before, lined with rotting cubicles and shattered monitors. Thick dust coats every surface, and a thick layer of grime clings to the walls.",
+      "seed_offset": 8
+    },
+    "250": {
+      "denoise": 0.75,
+      "prompt": "The fluorescent lights overhead begin to flicker wildly, casting erratic shadows on the walls as the air grows charged with electricity. The atmosphere thickens with anticipation.",
+      "seed_offset": 10
+    },
+    "300": {
+      "denoise": 0.8,
+      "prompt": "The bright red exit sign glows in a massive, desolate warehouse room, casting an otherworldly glow over the dusty space. The air is heavy with anticipation as the figure stands before the entrance.",
+      "seed_offset": 12
+    },
+    "350": {
+      "prompt": "viewing the maintenance room with tools and equipment, used in building and appliance repair, there is a woman in the room.",
+      "denoise": 0.85,
+      "seed_offset": 19
+    },
+    "400": {
+      "prompt": "the woman is at a work bench in the maintenance shop, repairing and air conditioner, she is wearing denim shorts and a light blue shirt",
+      "denoise": 0.85,
+      "seed_offset": 22
+    },
+    "450": {
+      "prompt": "the maintenance woman is at the workbench eating a sandwich for lunch, there is an apple and an orange on the workbench. She has a children's lunch box on the bench",
+      "denoise": 0.85,
+      "seed_offset": 25
+    },
+    "500": {
+      "prompt": "The woman is at the time clock ready to punch out out the day is done the clock on the wall 5:00",
+      "denoise": 0.85,
+      "seed_offset": 28
+    }
+  },
+  "injection_lines": [
+    "it is night shift, dark outside, lined with flickering fluorescent lights casting eerie shadows on the walls"
+  ],
+  "use_motion_zoom": true,
+  "use_metadata_caption": false,
+  "z_s": 1.0,
+  "z_e": 1.3,
+  "px_s": 0.53,
+  "px_e": 0.47,
+  "py_s": 0.5,
+  "py_e": 0.5,
+  "roll_mode": "none",
+  "steps": 14,
+  "cfg": 5.5,
+  "logo_filename": "None",
+  "logo_x": 0,
+  "logo_y": 0,
+  "logo_w": 100,
+  "logo_h": 100,
+  "logo_opacity": 1.0,
+  "feedback_color_boost": 1.03,
+  "feedback_contrast_boost": 1.01,
+  "feedback_sharpness_boost": 1.1,
+  "lora1_strength": 0.8,
+  "lora2_strength": 0.8,
+  "lora3_strength": 0.8,
+  "use_visual_director": false,
+  "visual_director_interval": 25,
+  "visual_director_model": "mistral:7b-instruct",
+  "use_prompt_interpolation": true,
+  "use_video_interpolation": true,
+  "caption_font_size": 16,
+  "caption_x": 12,
+  "caption_y": 91,
+  "caption_bg_r": 61,
+  "caption_bg_g": 81,
+  "caption_bg_b": 92,
+  "caption_bg_a": 0.4,
+  "temp_caption_font_size": 20,
+  "temp_caption_x": 20,
+  "temp_caption_y": 20,
+  "temp_caption_bg_r": 0,
+  "temp_caption_bg_g": 0,
+  "temp_caption_bg_b": 0,
+  "temp_caption_bg_a": 0.5
+}

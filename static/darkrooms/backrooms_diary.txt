@@ -1,0 +1,123 @@
+Frame 0 [clean_base_000.png]:
+  Visual: urns of gold and black color are placed on the floor, with a person standing near the left door frame.
+  Diary: The air is heavy with incense, the scent of gold and black wafting towards me as I stand before this door.
+
+Frame 1 [clean_base_001.png]:
+  Visual: urns of water sit on a table, casting shadows on the wall and floor below.
+  Diary: Water urns sit on a table, casting eerie shadows on the walls and floor below. My heart beats faster.
+
+Frame 2 [clean_base_002.png]:
+  Visual: urns of water are visible through a window, casting a reflection on the wall below.
+  Diary: Reflections dance across the wall, like ripples on a stagnant pool. The water urns seem to whisper secrets.
+
+Frame 3 [clean_base_003.png]:
+  Visual: urn of water with a lantern on top, casting light into the darkness below.
+  Diary: A lantern's warm glow illuminates the darkness, casting an otherworldly light on the water urns.
+
+Frame 4 [clean_base_004.png]:
+  Visual: urn of water on a dark hallway floor, with two doors and a black lantern above.
+  Diary: I approach the urn of water, its presence both calming and unnerving. The black lantern above seems to watch me.
+
+Frame 5 [clean_base_005.png]:
+  Visual: !!! A room with a door and a window, the person is walking through it.
+  Diary: Two doors loom before me, flanked by a dark hallway. Which path will I choose?
+
+Frame 6 [clean_base_006.png]:
+  Visual: ers of a room with a door and hallway, featuring a figure silhouetted against the wall.
+  Diary: I step into the unknown, leaving behind the safety of the door frame.
+
+Frame 7 [clean_base_007.png]:
+  Visual: urn of a person wearing a black coat and hat walking through an empty hallway lined with doors and windows.
+  Diary: A figure silhouetted against the wall lingers in the corner of my vision.
+
+Frame 8 [clean_base_008.png]:
+  Visual: ildjfk6u8h0 is the code for a door on the left side of an elevator, leading to unknown destinations.
+  Diary: Footsteps echo through the empty hallway, growing fainter with each step.
+
+Frame 9 [clean_base_009.png]:
+  Visual: urn of water sits on a dark floor, with a person in the foreground and a door at the far end.
+  Diary: The code 'ildjfk6u8h0' glows on the elevator's screen, beckoning me towards the unknown.
+
+Frame 10 [clean_base_010.png]:
+  Visual: ?.
+  Diary: Water urns sit alone on a dark floor. I approach them cautiously, sensing something off.
+
+Frame 11 [clean_base_011.png]:
+  Visual: ?.
+  Diary: A door looms before me, its presence both oppressive and alluring.
+
+Frame 12 [clean_base_012.png]:
+  Visual: urns of water are on the floor, and a man walks through a doorway with a broken window in an abandoned hallway.
+  Diary: ??? The air is thick with an unspoken question.
+
+Frame 13 [clean_base_013.png]:
+  Visual: urns are on the floor, and a persons shadow is visible through an open door.
+  Diary: ??? Silence stretches out like a shroud.
+
+Frame 14 [clean_base_014.png]:
+  Visual: urns are scattered across the floor, and a man is walking through them in a hallway with blue walls and white ceiling lights.
+  Diary: Water urns line the hallway, and a man walks through the doorway ahead, his face obscured by shadows.
+
+Frame 15 [clean_base_015.png]:
+  Visual: urns on the floor, a broken window, and a door with three handles are visible through a doorway.
+  Diary: Shadows writhe on the walls as I follow the man into the abandoned hallway.
+
+Frame 16 [clean_base_016.png]:
+  Visual: urns of water sit on the floor, reflecting the light from a single lamp, as a person stands in front of an open door.
+  Diary: A single shadow falls across the wall, casting an ominous presence.
+
+Frame 17 [clean_base_017.png]:
+  Visual: urns of water and broken glass are scattered on the floor, with a person standing in front of them.
+  Diary: Broken glass shatters beneath my feet. The air reeks of decay.
+
+Frame 18 [clean_base_018.png]:
+  Visual: !!!STOP!!!!!!
+  Diary: !!!STOP!!!!!! The world seems to hold its breath, suspended in a state of terror.
+
+Frame 19 [clean_base_019.png]:
+  Visual: urns of water are scattered on the floor, with a persons shadow visible in the bottom right corner.
+  Diary: I stumble through the wreckage, desperate to escape the horrors that haunt me.
+
+Frame 20 [clean_base_020.png]:
+  Visual: urns are placed on the floor, and a person is visible through an open doorway.
+  Diary: Water urns scurry across the floor like frightened animals.
+
+Frame 21 [clean_base_021.png]:
+  Visual: ursine and blue hallway with a red door on the right side, flanked by two doors with silver handles.
+  Diary: A figure stands in the doorway, its presence both calming and unnerving. My heart skips a beat.
+
+Frame 22 [clean_base_022.png]:
+  Visual: urns on the left side of a hallway with two doors and an exit sign above them.
+  Diary: Hallways stretch out before me, lined with doors and windows that seem to whisper secrets.
+
+Frame 23 [clean_base_023.png]:
+  Visual: urns with red and white stripes are on the walls, with a long hallway of dark wood floors extending into the distance.
+  Diary: Two doors flanked by silver handles beckon me towards safety.
+
+Frame 24 [clean_base_024.png]:
+  Visual: urns with red flanges are arranged in a hallway, illuminated by white lights and flanked by black walls.
+  Diary: Red and white stripes adorn the walls, leading me down a long hallway of dark wood floors.
+
+Frame 25 [clean_base_025.png]:
+  Visual: An empty hallway with graffiti on the walls, featuring a single light fixture and door marked red exit.
+  Diary: The air is heavy with the scent of red paint as I walk through the hallway.
+
+Frame 26 [clean_base_026.png]:
+  Visual: urns of a dark hallway with graffiti on the walls and a red exit sign above it.
+  Diary: Graffiti scrawled on the walls seems to mock me, the words 'Red Exit' echoing in my mind.
+
+Frame 27 [clean_base_027.png]:
+  Visual: urns are painted red and white on the walls, with a hallway leading to an exit sign at the end.
+  Diary: The clock above the door ticks away, its rhythm growing more urgent by the second.
+
+Frame 28 [clean_base_028.png]:
+  Visual: urns of red and white paint decorate the walls, with a clock displaying 2:00 pm on a black wall.
+  Diary: Water urns reflect the light of the exit sign, beckoning me towards freedom.
+
+Frame 29 [clean_base_029.png]:
+  Visual: urns of water are visible through a doorway, with a red exit sign and white exit sign above it.
+  Diary: ???
+
+Frame 30 [clean_base_030.png]:
+  Visual: ?.
+  Diary: Wandering deeper. The visual match points to: ?..

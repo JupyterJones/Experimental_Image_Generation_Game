@@ -1,0 +1,173 @@
+{
+  "current_frame": 444,
+  "frames_total": 500,
+  "seed": 123456,
+  "prompt": "The walls are slick with moisture, reflecting the flickering lights like a macabre mirror. The air is heavy with an unsettling sense of presence, as if unseen forces stir just out of sight.",
+  "original_starting_prompt": "The walls are slick with moisture, reflecting the flickering lights like a macabre mirror. The air is heavy with an unsettling sense of presence, as if unseen forces stir just out of sight.",
+  "negative_prompt": "low quality, blurry, bare breasts, nipples, large breasts, NSFW, deformed fingers",
+  "model": "aiREalistic_aIllust.safetensors",
+  "lora1": "None",
+  "lora2": "None",
+  "lora3": "None",
+  "denoise": 0.3,
+  "keyframes": {
+    "0": {
+      "denoise": 0.35,
+      "prompt": "A dimly lit, yellow-walled corridor with a carpeted floor, lined with old, flickering fluorescent lights. Dust motes float in the air as a lone figure wanders down the center. The atmosphere is eerie and foreboding.",
+      "seed_offset": 0
+    },
+    "4": {
+      "denoise": 0.5,
+      "prompt": "entering a flooded room, dirty",
+      "seed_offset": 1
+    },
+    "5": {
+      "denoise": 0.5,
+      "prompt": "dirty basement, with debris on the floor",
+      "seed_offset": 3
+    },
+    "10": {
+      "denoise": 0.5,
+      "prompt": "winding stairs, abandoned hall",
+      "seed_offset": 0
+    },
+    "13": {
+      "denoise": 0.5,
+      "prompt": "room has a door with a 'Keep Out' sign",
+      "seed_offset": 0
+    },
+    "15": {
+      "denoise": 0.5,
+      "prompt": "floor with a dirty carpet and abandoned office equipment",
+      "seed_offset": 0
+    },
+    "20": {
+      "denoise": 0.5,
+      "prompt": "flickering overhead fluorescent lights",
+      "seed_offset": -5
+    },
+    "25": {
+      "denoise": 0.5,
+      "prompt": "walls with graffiti and holes, wet floors ",
+      "seed_offset": 0
+    },
+    "30": {
+      "denoise": 0.5,
+      "prompt": "peeling wall paper, walls with graffiti and holes, wet floors ",
+      "seed_offset": 4
+    },
+    "35": {
+      "denoise": 0.5,
+      "prompt": "peeling wall paper, walls with holes, wet floors ",
+      "seed_offset": -4
+    },
+    "40": {
+      "denoise": 0.5,
+      "prompt": "storage room",
+      "seed_offset": 0
+    },
+    "45": {
+      "denoise": 0.5,
+      "prompt": "storage room, with shelves",
+      "seed_offset": 0
+    },
+    "50": {
+      "denoise": 0.55,
+      "prompt": "The corridor gives way to a set of winding concrete stairs leading down into darkness. A faint hum emanates from above, accompanied by the soft whisper of unknown sounds. The air is heavy with dust and an unsettling sense of decay.",
+      "seed_offset": 3
+    },
+    "73": {
+      "denoise": 0.65,
+      "prompt": "A dimly lit, narrow corridor transitions into a spiral staircase descending into inky shadows, illuminated only by a crescent moon casting an ethereal glow through a weathered, 35mm film camera's lens. Dust motes dance amidst cobweb-shrouded stair treads; soft whispers weave through the air, as the hum of distant machinery thrums, shrouded in decay",
+      "seed_offset": 7
+    },
+    "100": {
+      "denoise": 0.65,
+      "prompt": "the upstairs room comes into view, with trash covering the floor and debris scattered about. In the distance, a metal door marked with a red 'BEWARE' sign looms, its rusted doorknob to beg  viewer to enter.",
+      "seed_offset": 5
+    },
+    "150": {
+      "denoise": 0.75,
+      "prompt": "As the figure steps into an abandoned office space, old cubicles and rotting carpets litter the floor. Monitors lie shattered, their screens cracked and dark. The air is thick with dust and the stench of decay.",
+      "seed_offset": 7
+    },
+    "200": {
+      "denoise": 0.8,
+      "prompt": "The fluorescent lights above begin to flicker wildly, casting long, erratic shadows across the walls. Peeling wallpaper and graffiti cover the surface, with gaping holes where chunks have been ripped away. A red exit sign glows in the distance.",
+      "seed_offset": 9
+    },
+    "250": {
+      "denoise": 0.85,
+      "prompt": "The walls are slick with moisture, reflecting the flickering lights like a macabre mirror. The air is heavy with an unsettling sense of presence, as if unseen forces stir just out of sight.",
+      "seed_offset": 11
+    },
+    "300": {
+      "denoise": 0.9,
+      "prompt": "A red exit sign glows in the distance, its light casting an otherworldly glow over the desolate landscape. The ghostly figure stands frozen, surrounded by an aura of malevolent energy that seems to seep from the very walls themselves.",
+      "seed_offset": 13
+    },
+    "350": {
+      "denoise": 0.8,
+      "prompt": "Top-down view from an upstairs landing, a dimly lit corridor opens onto a spiral staircase that vanishes down into the blackness below. Pale silver light spills across worn wooden railings and cobweb-laden steps, revealing years of neglect. The air hangs heavy with dust, and somewhere beneath the floorboards a forgotten machine murmurs in the darkness. Atmospheric horror, cinematic lighting, highly detailed, eerie abandoned interior, deep shadows.",
+      "seed_offset": 14
+    },
+    "400": {
+      "denoise": 0.8,
+      "prompt": "A flooded basement room comes into view, with dirty water covering the floor and debris scattered about. In the distance, a metal door marked with a red 'KEEP OUT' sign looms, its rusted handle seeming to leer at the viewer.",
+      "seed_offset": 17
+    },
+    "450": {
+      "denoise": 0.8,
+      "prompt": "Shelves with maintenance supplies,  paint ,  tool box , floor is littered with papers, empty boxes  and trash. A few empty barrels and trash cans.",
+      "seed_offset": 20
+    },
+    "475": {
+      "prompt": "A woman working in the maintenance shop, tools in her hands repairing an air conditioner on the workbench",
+      "denoise": 0.8,
+      "seed_offset": 23
+    }
+  },
+  "injection_lines": [],
+  "use_motion_zoom": true,
+  "use_metadata_caption": false,
+  "z_s": 1,
+  "z_e": 1.05,
+  "px_s": 0.5,
+  "px_e": 0.5,
+  "py_s": 0.5,
+  "py_e": 0.5,
+  "roll_mode": "none",
+  "steps": 14,
+  "cfg": 5.5,
+  "logo_filename": "None",
+  "logo_x": 0,
+  "logo_y": 0,
+  "logo_w": 100,
+  "logo_h": 100,
+  "logo_opacity": 1.0,
+  "feedback_color_boost": 1.03,
+  "feedback_contrast_boost": 1.01,
+  "feedback_sharpness_boost": 1.1,
+  "lora1_strength": 0.8,
+  "lora2_strength": 0.8,
+  "lora3_strength": 0.8,
+  "use_visual_director": false,
+  "visual_director_interval": 21,
+  "visual_director_model": "mistral:7b-instruct",
+  "use_prompt_interpolation": true,
+  "use_video_interpolation": true,
+  "caption_font_size": 12,
+  "caption_x": 10,
+  "caption_y": 10,
+  "caption_bg_r": 61,
+  "caption_bg_g": 81,
+  "caption_bg_b": 92,
+  "caption_bg_a": 0.4,
+  "temp_caption_font_size": 20,
+  "temp_caption_x": 20,
+  "temp_caption_y": 20,
+  "temp_caption_bg_r": 0,
+  "temp_caption_bg_g": 0,
+  "temp_caption_bg_b": 0,
+  "temp_caption_bg_a": 0.5
+}

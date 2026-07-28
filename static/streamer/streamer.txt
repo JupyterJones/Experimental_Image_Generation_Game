@@ -1,0 +1,1471 @@
+[2026-06-13 11:54:11] landscape.py
+[2026-06-13 11:54:11] Len Prompt: 33
+[2026-06-13 11:55:57] Prompt enhanced by deepseek-r1:1.5b: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>' -> 'A star-gate in a soft, ambient glow stretches into a vast expanse of stars, planets, nebulae, and dust. The creatures shimmer in water-like fluids, moving with fluid energy against the backdrop of glowing stars and swirling debris. A wide-angle camera lances a golden glow, reflecting the soft light, with subtle shadows that highlight their movement. Soft pastel shades of blue and earthy tones dominate the surface, while some floating water droplets seem to pulse in bright teal and magenta hues. Dust particles streak through ethereal light, adding an extra layer of atmosphere to the space.'
+[2026-06-13 11:57:06] ENGINE STARTED: Entering render loop.
+[2026-06-13 11:57:06] Prompt sent (Frame 0). PID: c4b848c2-997b-4a32-934d-a87e67034cc9
+[2026-06-13 11:59:44] Frame 0 finished.
+[2026-06-13 11:59:45] Prompt sent (Frame 1). PID: e2a2940d-597b-4faf-8fde-031c131fc68e
+[2026-06-13 12:02:31] Frame 1 finished.
+[2026-06-13 12:02:31] Prompt sent (Frame 2). PID: 4bff5577-95c0-4600-885d-f73d6d978375
+[2026-06-13 12:05:21] Frame 2 finished.
+[2026-06-13 12:05:22] Prompt sent (Frame 3). PID: 042d34f9-9fed-4a07-88c6-6b60de077e28
+[2026-06-13 12:08:09] Frame 3 finished.
+[2026-06-13 12:08:09] Prompt sent (Frame 4). PID: 9ca0a9a2-3b15-4f71-802d-4ce7c8dd7601
+[2026-06-13 12:11:01] Frame 4 finished.
+[2026-06-13 12:11:02] Prompt sent (Frame 5). PID: d6643e37-fc23-4c9d-b73b-647dc5948a6e
+[2026-06-13 12:14:06] Frame 5 finished.
+[2026-06-13 12:14:06] Prompt sent (Frame 6). PID: cdd9af71-0650-4335-a43a-f4e291e92198
+[2026-06-13 12:17:35] Frame 6 finished.
+[2026-06-13 12:17:36] Prompt sent (Frame 7). PID: 429bdc3c-675e-475f-a11a-359a87312775
+[2026-06-13 12:21:03] Frame 7 finished.
+[2026-06-13 12:21:03] Prompt sent (Frame 8). PID: fc1e4e8b-5753-4985-97f6-425b69c22a3d
+[2026-06-13 12:24:24] Frame 8 finished.
+[2026-06-13 12:24:25] Prompt sent (Frame 9). PID: a9416f36-1d01-4201-9490-d132173a8466
+[2026-06-13 12:27:46] Frame 9 finished.
+[2026-06-13 12:27:46] Prompt sent (Frame 10). PID: 6e2b9a74-2e43-418f-9932-1c9445df108c
+[2026-06-13 12:31:10] Frame 10 finished.
+[2026-06-13 12:31:11] Prompt sent (Frame 11). PID: 63624f78-815a-47e6-8463-5c55ebaeff38
+[2026-06-13 12:34:30] Frame 11 finished.
+[2026-06-13 12:34:30] Prompt sent (Frame 12). PID: 47eb3ce9-02cc-478b-a709-3d886a6352ee
+[2026-06-13 12:38:24] landscape.py
+[2026-06-13 12:38:24] Len Prompt: 33
+[2026-06-13 12:38:37] ENGINE STARTED: Entering render loop.
+[2026-06-13 12:38:37] Resume: Detected frame 11 on disk. Starting at 12
+[2026-06-13 12:38:38] Prompt sent (Frame 12). PID: c8afd31d-c71a-4075-a1a8-48a33d4112a2
+[2026-06-13 12:42:47] Frame 12 finished.
+[2026-06-13 12:42:49] Prompt sent (Frame 13). PID: 160fdf3b-3f53-4ac0-9e62-48ee8b6d6a44
+[2026-06-13 12:46:23] Frame 13 finished.
+[2026-06-13 12:46:23] Prompt sent (Frame 14). PID: b4c55ea0-9ba4-4aed-9957-b715e0bffbce
+[2026-06-13 12:49:50] Frame 14 finished.
+[2026-06-13 12:49:50] Prompt sent (Frame 15). PID: f62e682b-bb96-447f-9946-797de2442bd3
+[2026-06-13 12:53:20] Frame 15 finished.
+[2026-06-13 12:53:20] Prompt sent (Frame 16). PID: 9e77c486-bbd0-49ff-987a-044a3a587f62
+[2026-06-13 12:56:49] Frame 16 finished.
+[2026-06-13 12:56:49] Prompt sent (Frame 17). PID: e914eaec-1764-44a9-85d9-c04a5685b69c
+[2026-06-13 13:00:02] Frame 17 finished.
+[2026-06-13 13:00:03] Prompt sent (Frame 18). PID: 47f6c982-4389-4c62-8165-e5f2963991aa
+[2026-06-13 13:02:02] landscape.py
+[2026-06-13 13:02:02] Len Prompt: 33
+[2026-06-13 13:02:13] landscape.py
+[2026-06-13 13:02:13] Len Prompt: 33
+[2026-06-13 13:02:57] landscape.py
+[2026-06-13 13:02:57] Len Prompt: 33
+[2026-06-13 13:04:11] landscape.py
+[2026-06-13 13:04:11] Len Prompt: 33
+[2026-06-13 13:05:48] landscape.py
+[2026-06-13 13:05:48] Len Prompt: 33
+[2026-06-13 13:06:41] landscape.py
+[2026-06-13 13:06:41] Len Prompt: 33
+[2026-06-13 13:06:54] ENGINE STARTED: Entering render loop.
+[2026-06-13 13:06:54] Resume: Detected frame 17 on disk. Starting at 18
+[2026-06-13 13:06:55] Prompt sent (Frame 18). PID: 1ff187ae-8237-4bf9-8436-67f8c8ea80fe
+[2026-06-13 13:09:43] Frame 18 finished.
+[2026-06-13 13:09:43] Prompt sent (Frame 19). PID: 165c98e0-3c17-4c54-a1a6-9af43cf7356e
+[2026-06-13 13:12:29] Frame 19 finished.
+[2026-06-13 13:12:30] Prompt sent (Frame 20). PID: 65310ec7-98ea-410c-8254-3bd6e242888a
+[2026-06-13 13:15:20] Frame 20 finished.
+[2026-06-13 13:15:20] Prompt sent (Frame 21). PID: c20e5b30-350d-4170-9df1-ca7bda650021
+[2026-06-13 13:18:06] Frame 21 finished.
+[2026-06-13 13:18:07] Prompt sent (Frame 22). PID: 666b1d96-9fb3-4b2a-be0d-738d953e2325
+[2026-06-13 13:20:58] Frame 22 finished.
+[2026-06-13 13:20:58] Prompt sent (Frame 23). PID: c4711b2c-268c-40de-8e93-221318b0a5e1
+[2026-06-13 13:23:46] Frame 23 finished.
+[2026-06-13 13:23:46] Prompt sent (Frame 24). PID: aeddd648-3e7e-45b9-b714-048d3c3af67e
+[2026-06-13 13:26:32] Frame 24 finished.
+[2026-06-13 13:26:32] Prompt sent (Frame 25). PID: 00c28c93-fe37-4266-9f37-bd2848d35718
+[2026-06-13 13:29:20] Frame 25 finished.
+[2026-06-13 13:29:20] Visual Director: Evolving prompt based on frame 25...
+[2026-06-13 13:30:51] Visual Director: New base prompt set -> '!!!START!!!A spaceship is about to crash into a planet, while an alien looks on from the side of the spaceship.'
+[2026-06-13 13:30:51] Prompt sent (Frame 26). PID: d1aa96d8-0b3b-4c55-af8a-ca1d0d9e5e6d
+[2026-06-13 13:34:04] Frame 26 finished.
+[2026-06-13 13:34:04] Prompt sent (Frame 27). PID: cdcbdd0e-b92f-438c-842a-31d4077f77d5
+[2026-06-13 13:36:53] Frame 27 finished.
+[2026-06-13 13:36:54] Prompt sent (Frame 28). PID: a384fa91-48ab-4d3f-9de1-75cc293dc9b3
+[2026-06-13 13:39:42] Frame 28 finished.
+[2026-06-13 13:39:42] Prompt sent (Frame 29). PID: 4b475ffc-fa7e-4edc-b3e8-473daff5b4d6
+[2026-06-13 13:42:30] Frame 29 finished.
+[2026-06-13 13:42:31] Prompt sent (Frame 30). PID: dd73b0a0-a779-4ed8-ba95-657df419a90b
+[2026-06-13 13:45:19] Frame 30 finished.
+[2026-06-13 13:45:19] Prompt sent (Frame 31). PID: 62e8c6ff-199b-4cfd-9020-6909476b752a
+[2026-06-13 13:48:07] Frame 31 finished.
+[2026-06-13 13:48:08] Prompt sent (Frame 32). PID: 61c3d309-40ba-446c-9d29-513e17a854b4
+[2026-06-13 13:50:57] Frame 32 finished.
+[2026-06-13 13:50:57] Prompt sent (Frame 33). PID: c947aa64-57fb-4eb9-9815-6b861aebfd3d
+[2026-06-13 13:53:45] Frame 33 finished.
+[2026-06-13 13:53:46] Prompt sent (Frame 34). PID: 9065ad05-91a2-4ea6-84e3-220c45e707bb
+[2026-06-13 13:56:32] Frame 34 finished.
+[2026-06-13 13:56:32] Prompt sent (Frame 35). PID: ffed1870-7c0c-4dda-916b-328ddb2e52b9
+[2026-06-13 13:59:20] Frame 35 finished.
+[2026-06-13 13:59:21] Prompt sent (Frame 36). PID: 47f1cb5c-ef8b-40a6-89e9-d6fc7be52c6f
+[2026-06-13 14:02:09] Frame 36 finished.
+[2026-06-13 14:02:09] Prompt sent (Frame 37). PID: ae5fef4c-e56f-4b51-8e03-741d829cb8e3
+[2026-06-13 14:04:56] Frame 37 finished.
+[2026-06-13 14:04:57] Prompt sent (Frame 38). PID: 19779647-439b-4715-abe3-209fcdb8cb94
+[2026-06-13 14:07:44] Frame 38 finished.
+[2026-06-13 14:07:44] Prompt sent (Frame 39). PID: b5dd86cf-f6fd-45f7-b53d-40a474ca558e
+[2026-06-13 14:10:31] Frame 39 finished.
+[2026-06-13 14:10:31] Prompt sent (Frame 40). PID: c2d35af1-0d76-401e-9917-3007d957a90f
+[2026-06-13 14:13:20] Frame 40 finished.
+[2026-06-13 14:13:20] Prompt sent (Frame 41). PID: 7783c3df-9354-4bfb-ac94-b8f65c86f19b
+[2026-06-13 14:16:07] Frame 41 finished.
+[2026-06-13 14:16:07] Prompt sent (Frame 42). PID: 4bd283a6-f386-4a75-8bf4-88a814e51248
+[2026-06-13 14:18:54] Frame 42 finished.
+[2026-06-13 14:18:55] Prompt sent (Frame 43). PID: f2083bd2-1bff-48eb-ba3c-b4012b11647d
+[2026-06-13 14:21:42] Frame 43 finished.
+[2026-06-13 14:21:42] Prompt sent (Frame 44). PID: beb059e5-6acb-4c6a-a786-fc8e6a66e874
+[2026-06-13 14:24:30] Frame 44 finished.
+[2026-06-13 14:24:31] Prompt sent (Frame 45). PID: dddfc99e-56bb-4ddd-8d03-4f28497a8dca
+[2026-06-13 14:27:18] Frame 45 finished.
+[2026-06-13 14:27:18] Prompt sent (Frame 46). PID: 7fd78358-f3cd-4738-81ee-607b2e6b585b
+[2026-06-13 14:30:06] Frame 46 finished.
+[2026-06-13 14:30:07] Prompt sent (Frame 47). PID: 92e4c998-85e5-40bb-8ddb-c714b89a7de5
+[2026-06-13 14:32:55] Frame 47 finished.
+[2026-06-13 14:32:55] Prompt sent (Frame 48). PID: 712dbf42-5311-41a4-8fc3-3e351e3b1341
+[2026-06-13 14:35:43] Frame 48 finished.
+[2026-06-13 14:35:44] Prompt sent (Frame 49). PID: f080dac4-d77a-44d2-998f-ec49ae3e68c3
+[2026-06-13 14:38:30] Frame 49 finished.
+[2026-06-13 14:38:30] Prompt sent (Frame 50). PID: 09f4143c-d24d-4605-91df-58a2ca3a9992
+[2026-06-13 14:41:16] Frame 50 finished.
+[2026-06-13 14:41:16] Visual Director: Evolving prompt based on frame 50...
+[2026-06-13 14:42:32] Visual Director: New base prompt set -> '!!!START!!!A purple planet with a blue and white circle on it in front of a black frame with red dots.'
+[2026-06-13 14:42:32] Prompt sent (Frame 51). PID: 87c474e2-4080-41c4-afb3-8ee026c3422a
+[2026-06-13 14:45:22] Frame 51 finished.
+[2026-06-13 14:45:23] Prompt sent (Frame 52). PID: d8660bda-1ca1-4de9-a972-c05b0d5c117f
+[2026-06-13 14:48:10] Frame 52 finished.
+[2026-06-13 14:48:10] Prompt sent (Frame 53). PID: 4e683216-17a2-4e4d-8ccd-7b7bf506f600
+[2026-06-13 14:50:59] Frame 53 finished.
+[2026-06-13 14:51:00] Prompt sent (Frame 54). PID: 976d112f-a024-4be4-9787-66322b6e71aa
+[2026-06-13 14:53:49] Frame 54 finished.
+[2026-06-13 14:53:49] Prompt sent (Frame 55). PID: 2e85e052-8795-46ce-a13a-03b1b903c9f9
+[2026-06-13 14:56:37] Frame 55 finished.
+[2026-06-13 14:56:38] Prompt sent (Frame 56). PID: 88e944d6-911b-4921-92ed-f937b5f6d004
+[2026-06-13 14:59:26] Frame 56 finished.
+[2026-06-13 14:59:26] Prompt sent (Frame 57). PID: b4ffa412-2a18-41bb-acc3-70477f510b6c
+[2026-06-13 15:02:15] Frame 57 finished.
+[2026-06-13 15:02:16] Prompt sent (Frame 58). PID: 5ab740b1-7eaa-4df7-ad8f-6365ea1b6dbe
+[2026-06-13 15:05:04] Frame 58 finished.
+[2026-06-13 15:05:04] Prompt sent (Frame 59). PID: c3917c8b-9e92-4539-8adf-54bd8ee5181b
+[2026-06-13 15:07:52] Frame 59 finished.
+[2026-06-13 15:07:53] Prompt sent (Frame 60). PID: 2c47c9ae-49ff-463f-b94a-a7828375b846
+[2026-06-13 15:10:42] Frame 60 finished.
+[2026-06-13 15:10:42] Prompt sent (Frame 61). PID: daa067b3-d97a-4582-97de-663b6be9eeec
+[2026-06-13 15:13:30] Frame 61 finished.
+[2026-06-13 15:13:31] Prompt sent (Frame 62). PID: 48432faf-6abc-442f-9cbe-0b2425952eae
+[2026-06-13 15:16:20] Frame 62 finished.
+[2026-06-13 15:16:20] Prompt sent (Frame 63). PID: 4bfc987c-1292-4416-9093-c618e81bdfa1
+[2026-06-13 15:19:08] Frame 63 finished.
+[2026-06-13 15:19:08] Prompt sent (Frame 64). PID: 05c43e1a-1d59-43d4-b57d-83c24cc57cec
+[2026-06-13 15:21:58] Frame 64 finished.
+[2026-06-13 15:21:58] Prompt sent (Frame 65). PID: 3c3ac8ef-15dd-4cb0-8a6b-9cad66e8f213
+[2026-06-13 15:24:46] Frame 65 finished.
+[2026-06-13 15:24:46] Prompt sent (Frame 66). PID: 25b0dafe-ac4a-4cfe-b502-126620881131
+[2026-06-13 15:27:34] Frame 66 finished.
+[2026-06-13 15:27:35] Prompt sent (Frame 67). PID: 91f315b1-9ba4-482f-80d5-ae6e4cd1bdee
+[2026-06-13 15:30:24] Frame 67 finished.
+[2026-06-13 15:30:24] Prompt sent (Frame 68). PID: 64b7ef16-b404-42c8-b5a5-0d07664044b3
+[2026-06-13 15:33:12] Frame 68 finished.
+[2026-06-13 15:33:13] Prompt sent (Frame 69). PID: 50c398fe-c57d-4349-bc7b-231211ceef31
+[2026-06-13 15:36:01] Frame 69 finished.
+[2026-06-13 15:36:01] Prompt sent (Frame 70). PID: d3ed8353-f98f-4060-ba84-1b60467322e6
+[2026-06-13 15:38:48] Frame 70 finished.
+[2026-06-13 15:38:49] Prompt sent (Frame 71). PID: 1c0f754e-ca83-4623-bf7a-29fb5f8d0488
+[2026-06-13 15:41:37] Frame 71 finished.
+[2026-06-13 15:41:37] Prompt sent (Frame 72). PID: f27ddaa9-a6b1-4b94-b9e4-f64c51e11a5a
+[2026-06-13 15:44:24] Frame 72 finished.
+[2026-06-13 15:44:24] Prompt sent (Frame 73). PID: d59791af-ef31-499d-8857-f4e91b9a3890
+[2026-06-13 15:47:13] Frame 73 finished.
+[2026-06-13 15:47:13] Prompt sent (Frame 74). PID: 3a557d6b-a6ff-45b2-9da9-f16b98c196fa
+[2026-06-13 15:50:01] Frame 74 finished.
+[2026-06-13 15:50:01] Prompt sent (Frame 75). PID: 93b96967-9d5a-46c9-b8c4-818b24ae8536
+[2026-06-13 15:52:49] Frame 75 finished.
+[2026-06-13 15:52:50] Visual Director: Evolving prompt based on frame 75...
+[2026-06-13 15:53:58] Visual Director: New base prompt set -> '!!!START!!! a purple planet in the middle of two blue circles and two white rings.'
+[2026-06-13 15:53:58] Prompt sent (Frame 76). PID: 1505a8ee-92ac-4158-99c5-2cb338eaa8ff
+[2026-06-13 15:56:44] Frame 76 finished.
+[2026-06-13 15:56:45] Prompt sent (Frame 77). PID: f329ce72-ca91-4eab-8835-5ba9b54cd3e5
+[2026-06-13 15:59:33] Frame 77 finished.
+[2026-06-13 15:59:33] Prompt sent (Frame 78). PID: d03a95bc-d5f9-4675-b644-594fb2a6a872
+[2026-06-13 16:02:20] Frame 78 finished.
+[2026-06-13 16:02:21] Prompt sent (Frame 79). PID: 5bb6f03f-672e-47ec-a3be-9ea15ee20fac
+[2026-06-13 16:05:09] Frame 79 finished.
+[2026-06-13 16:05:09] Prompt sent (Frame 80). PID: c5151892-8de7-4fa0-a44e-bdc9bda3c08b
+[2026-06-13 16:07:56] Frame 80 finished.
+[2026-06-13 16:07:56] Prompt sent (Frame 81). PID: 98f10236-ef14-4f0d-bdb8-e460584d97d9
+[2026-06-13 16:10:44] Frame 81 finished.
+[2026-06-13 16:10:44] Prompt sent (Frame 82). PID: b41f3bc6-0880-4101-9bde-d4ffdb221250
+[2026-06-13 16:13:32] Frame 82 finished.
+[2026-06-13 16:13:32] Prompt sent (Frame 83). PID: df587341-9fef-48ff-bb63-d5c3fb50f192
+[2026-06-13 16:16:21] Frame 83 finished.
+[2026-06-13 16:16:21] Prompt sent (Frame 84). PID: 4fe7d38b-a62a-4d98-b8d8-cab2ab95736b
+[2026-06-13 16:19:09] Frame 84 finished.
+[2026-06-13 16:19:09] Prompt sent (Frame 85). PID: fe4dc8fd-d244-4edc-8c9d-fa41f6fcd153
+[2026-06-13 16:21:57] Frame 85 finished.
+[2026-06-13 16:21:58] Prompt sent (Frame 86). PID: 95d0295e-2a3f-4dd7-ae6e-1465da600e32
+[2026-06-13 16:24:46] Frame 86 finished.
+[2026-06-13 16:24:46] Prompt sent (Frame 87). PID: 9a70e918-5770-4cc3-8ca2-1846d52e8bcc
+[2026-06-13 16:27:34] Frame 87 finished.
+[2026-06-13 16:27:35] Prompt sent (Frame 88). PID: 17bd4ff8-e0d3-45e6-8a6e-ee6b090818f5
+[2026-06-13 16:30:23] Frame 88 finished.
+[2026-06-13 16:30:23] Prompt sent (Frame 89). PID: 486f384e-333c-4f2e-a788-f40ac89c6d18
+[2026-06-13 16:33:24] Frame 89 finished.
+[2026-06-13 16:33:25] Prompt sent (Frame 90). PID: 18cef267-271c-4b74-a088-fefd67e1c836
+[2026-06-13 16:36:13] Frame 90 finished.
+[2026-06-13 16:36:13] Prompt sent (Frame 91). PID: f2fb0b77-6fca-45d0-bff3-850b1eed7590
+[2026-06-13 16:39:03] Frame 91 finished.
+[2026-06-13 16:39:03] Prompt sent (Frame 92). PID: 5a32ecad-9275-476d-a0a4-bd462e63a2c9
+[2026-06-13 16:41:16] landscape.py
+[2026-06-13 16:41:16] Len Prompt: 33
+[2026-06-13 16:48:10] landscape.py
+[2026-06-13 16:48:10] Len Prompt: 33
+[2026-06-13 16:52:23] ENGINE STARTED: Entering render loop.
+[2026-06-13 16:52:23] Resume: Detected frame 91 on disk. Starting at 92
+[2026-06-13 16:52:24] Prompt sent (Frame 92). PID: 5e7bd84b-1ea3-4b9f-9f88-21274005144c
+[2026-06-13 16:55:11] Frame 92 finished.
+[2026-06-13 16:55:11] Prompt sent (Frame 93). PID: 20b40bd4-5feb-48be-9978-53fa8e86f4cd
+[2026-06-13 16:57:59] Frame 93 finished.
+[2026-06-13 16:58:00] Prompt sent (Frame 94). PID: 4e099ccf-7e11-4934-a26e-2cc91726e914
+[2026-06-13 17:00:52] Frame 94 finished.
+[2026-06-13 17:00:52] Prompt sent (Frame 95). PID: a18834e0-130c-4491-8194-c18e6c7847c8
+[2026-06-13 17:03:41] Frame 95 finished.
+[2026-06-13 17:03:42] Prompt sent (Frame 96). PID: d5a1217b-56bb-411c-9190-64024a8a94b4
+[2026-06-13 17:06:30] Frame 96 finished.
+[2026-06-13 17:06:30] Prompt sent (Frame 97). PID: 738e0bf7-50e4-4a98-b895-24734fe45aca
+[2026-06-13 17:10:03] Frame 97 finished.
+[2026-06-13 17:10:03] Prompt sent (Frame 98). PID: 5b3173fd-674d-40a0-a040-04457ee08f31
+[2026-06-13 17:12:50] Frame 98 finished.
+[2026-06-13 17:12:51] Prompt sent (Frame 99). PID: 4b3e9ad7-7fb4-44f5-b526-9c9a668ef994
+[2026-06-13 17:15:42] Frame 99 finished.
+[2026-06-13 17:15:42] Prompt sent (Frame 100). PID: f8305e39-25d1-4154-ac6f-4fd8754c5b31
+[2026-06-13 17:16:03] landscape.py
+[2026-06-13 17:16:03] Len Prompt: 33
+[2026-06-13 17:23:27] landscape.py
+[2026-06-13 17:23:27] Len Prompt: 33
+[2026-06-13 17:24:36] landscape.py
+[2026-06-13 17:24:36] Len Prompt: 33
+[2026-06-13 17:25:21] landscape.py
+[2026-06-13 17:25:21] Len Prompt: 33
+[2026-06-13 17:25:46] ENGINE STARTED: Entering render loop.
+[2026-06-13 17:25:46] Resume: Detected frame 99 on disk. Starting at 100
+[2026-06-13 17:25:46] Prompt sent (Frame 100). PID: bf80a55b-30ca-4ef9-b1fe-8a7fd1380ed8
+[2026-06-13 17:28:30] Frame 100 finished.
+[2026-06-13 17:28:30] Visual Director: Evolving prompt based on frame 100...
+[2026-06-13 17:30:05] Prompt sent (Frame 101). PID: ec0d246f-1a41-40c3-9007-ca9e904495cb
+[2026-06-13 17:38:00] Prompt enhanced by llama3.2:3b: 'Highly detailed NSA styled Science fiction image of a wormhole, star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>' -> 'A swirling, iridescent wormhole suspended amidst a tapestry of stars, planets, and nebulae, as ethereal, bioluminescent creatures – resembling ancient sea deities – glide through the void, their forms shifting between liquid, crystalline, and wispy states; lens flares from a vintage 50mm f/1.4 camera capture the scene in warm, golden light; fine, cosmic dust particles dance around the creatures' ethereal trails.'
+[2026-06-13 17:51:02] Frame 101 finished.
+[2026-06-13 17:51:03] Prompt sent (Frame 102). PID: 699cdc20-f5a9-44d4-8125-361da8bdb7af
+[2026-06-13 17:55:38] Frame 102 finished.
+[2026-06-13 17:55:39] Prompt sent (Frame 103). PID: 82cc9b76-73c7-4b55-b92d-774ce1d3e9fb
+[2026-06-13 17:58:30] Frame 103 finished.
+[2026-06-13 17:58:30] Keyframe 104 applied. Redirecting Visual Director baseline to: 'Highly detailed NSA styled swirling, iridescent wormhole suspended amidst a tapestry of stars, planets, and nebulae, as ethereal, bioluminescent creatures – resembling ancient sea deities – glide through the void, their forms shifting between liquid, crystalline, and wispy states; lens flares from a vintage 50mm f/1.4 camera capture the scene in warm, golden light; fine, cosmic dust particles dance around the creatures' ethereal trails.'
+[2026-06-13 17:58:30] Prompt sent (Frame 104). PID: 279d1257-92ff-4df7-9e0f-7a112651873b
+[2026-06-13 18:01:08] Frame 104 finished.
+[2026-06-13 18:01:09] Prompt sent (Frame 105). PID: e26f012c-4293-4776-8fea-767160ddf18c
+[2026-06-13 18:03:50] Frame 105 finished.
+[2026-06-13 18:03:50] Prompt sent (Frame 106). PID: c3ed4f58-08d5-4956-957c-32252f60af84
+[2026-06-13 18:07:01] Frame 106 finished.
+[2026-06-13 18:07:02] Prompt sent (Frame 107). PID: d51e973e-65ac-4de7-8f78-36b660038988
+[2026-06-13 18:10:47] Frame 107 finished.
+[2026-06-13 18:10:47] Prompt sent (Frame 108). PID: 8b320190-3fc1-48c8-9ead-7dc899ee5917
+[2026-06-13 18:14:38] Frame 108 finished.
+[2026-06-13 18:14:39] Prompt sent (Frame 109). PID: 43c34393-e134-4cf6-aeed-f6bccaca18c2
+[2026-06-13 18:20:40] Frame 109 finished.
+[2026-06-13 18:20:40] Prompt sent (Frame 110). PID: 3260b918-0cd4-4e30-bb1d-7d0a09279f22
+[2026-06-13 18:23:39] Frame 110 finished.
+[2026-06-13 18:23:40] Prompt sent (Frame 111). PID: d7e972be-6529-4c92-9b80-f580eb424525
+[2026-06-13 18:26:19] Frame 111 finished.
+[2026-06-13 18:26:19] Prompt sent (Frame 112). PID: ff75dff2-c327-4234-93a0-6c7aaff71071
+[2026-06-13 18:28:57] Frame 112 finished.
+[2026-06-13 18:28:57] Prompt sent (Frame 113). PID: 77e3b420-5d6f-4a0d-9d73-141bc99921a4
+[2026-06-13 18:31:36] Frame 113 finished.
+[2026-06-13 18:31:36] Prompt sent (Frame 114). PID: 6f2018d4-6722-4bb6-a426-323a8c62815b
+[2026-06-13 18:34:13] Frame 114 finished.
+[2026-06-13 18:34:14] Prompt sent (Frame 115). PID: d8a42616-9f71-49f4-b8f6-a576d1fc5a93
+[2026-06-13 18:36:52] Frame 115 finished.
+[2026-06-13 18:36:52] Prompt sent (Frame 116). PID: 88f807cd-947a-4b72-b448-da41b1d8b0ee
+[2026-06-13 18:39:29] Frame 116 finished.
+[2026-06-13 18:39:29] Prompt sent (Frame 117). PID: ebe70e9f-18c0-41db-8f1e-167b5f28ff33
+[2026-06-13 18:42:07] Frame 117 finished.
+[2026-06-13 18:42:07] Prompt sent (Frame 118). PID: 7c812784-ef50-4774-aafa-7532c644f160
+[2026-06-13 18:44:45] Frame 118 finished.
+[2026-06-13 18:44:45] Prompt sent (Frame 119). PID: e77634b0-8a8d-48c6-bdd5-56a312a31f45
+[2026-06-13 18:47:23] Frame 119 finished.
+[2026-06-13 18:47:24] Prompt sent (Frame 120). PID: 69deef88-3d4d-4bcf-aa5b-4d73a9321a20
+[2026-06-13 18:50:02] Frame 120 finished.
+[2026-06-13 18:50:02] Prompt sent (Frame 121). PID: 1ddf2eb8-6bab-4117-9424-72132a9ec305
+[2026-06-13 18:52:40] Frame 121 finished.
+[2026-06-13 18:52:40] Prompt sent (Frame 122). PID: 788107de-e16a-4f95-8f85-b20da9b03fc7
+[2026-06-13 18:55:17] Frame 122 finished.
+[2026-06-13 18:55:17] Prompt sent (Frame 123). PID: 594a9588-789f-415e-af93-978b09f812b3
+[2026-06-13 18:57:56] Frame 123 finished.
+[2026-06-13 18:57:56] Prompt sent (Frame 124). PID: 31c7edc2-af8e-458b-b5bd-23928e6fe12e
+[2026-06-13 19:00:37] Frame 124 finished.
+[2026-06-13 19:00:37] Prompt sent (Frame 125). PID: 544ad67f-2f3b-4fd0-b43e-230b63c76844
+[2026-06-13 19:03:14] Frame 125 finished.
+[2026-06-13 19:03:14] Visual Director: Evolving prompt based on frame 125...
+[2026-06-13 19:04:56] Visual Director: New base prompt set -> ''Highly detailed NSA styled swirling, iridescent wormhole suspended amidst a tapestry of stars, planets, and nebulae; as ethereal, bioluminescent creatures glide through the void - their forms shifting between liquid, crystalline, and wispy states; lens flares from a vintage 50mm f/1.4 camera capture the scene in warm, golden light; fine, cosmic dust particles dance around the creatures' ethereal trails.'.'
+[2026-06-13 19:04:56] Prompt sent (Frame 126). PID: c7d0aaa5-2709-426b-9b6b-b2c71cfb9ca3
+[2026-06-13 19:08:58] Frame 126 finished.
+[2026-06-13 19:09:00] Prompt sent (Frame 127). PID: a484f17e-b3e5-40fe-acda-3b13f62bea80
+[2026-06-13 19:11:39] Frame 127 finished.
+[2026-06-13 19:11:39] Prompt sent (Frame 128). PID: dafd3376-7bd4-4428-9d5f-d72afeb2c280
+[2026-06-13 19:14:18] Frame 128 finished.
+[2026-06-13 19:14:19] Prompt sent (Frame 129). PID: 23d6cee3-f295-4679-8714-5791994a7673
+[2026-06-13 19:16:58] Frame 129 finished.
+[2026-06-13 19:16:59] Prompt sent (Frame 130). PID: fd228364-20e4-4f8a-bc0f-2da9b283b025
+[2026-06-13 19:19:38] Frame 130 finished.
+[2026-06-13 19:19:39] Prompt sent (Frame 131). PID: a7f33b9b-8d59-4815-8f03-5455d4c99ae9
+[2026-06-13 19:22:18] Frame 131 finished.
+[2026-06-13 19:22:18] Prompt sent (Frame 132). PID: 2cec88ed-b953-4319-8bb5-9a1c48e66017
+[2026-06-13 19:24:57] Frame 132 finished.
+[2026-06-13 19:24:57] Prompt sent (Frame 133). PID: 75cd92c1-40e9-40a5-9c07-c00ef714b764
+[2026-06-13 19:27:35] Frame 133 finished.
+[2026-06-13 19:27:36] Prompt sent (Frame 134). PID: dd7a3dad-4961-4e9a-ab4c-77c32b4008f8
+[2026-06-13 19:30:15] Frame 134 finished.
+[2026-06-13 19:30:15] Prompt sent (Frame 135). PID: 89852f22-c7fb-4f1a-925c-940603fab662
+[2026-06-13 19:32:53] Frame 135 finished.
+[2026-06-13 19:32:54] Prompt sent (Frame 136). PID: ac787b06-4323-4fd1-81e6-120d51e4fee9
+[2026-06-13 19:35:33] Frame 136 finished.
+[2026-06-13 19:35:33] Prompt sent (Frame 137). PID: c60bd9af-aaf5-48ed-81a2-68731c3c425c
+[2026-06-13 19:38:11] Frame 137 finished.
+[2026-06-13 19:38:12] Prompt sent (Frame 138). PID: 3f71effd-e0c8-482e-a2d1-a6e68a6c9c19
+[2026-06-13 19:40:50] Frame 138 finished.
+[2026-06-13 19:40:50] Prompt sent (Frame 139). PID: 914dbebd-6721-476c-8be9-ca138a60d826
+[2026-06-13 19:43:29] Frame 139 finished.
+[2026-06-13 19:43:29] Prompt sent (Frame 140). PID: ad156d3d-19ab-404c-8a03-81f099722272
+[2026-06-13 19:46:09] Frame 140 finished.
+[2026-06-13 19:46:09] Prompt sent (Frame 141). PID: 9fa9eeb8-fcc5-480d-8f66-f06dfd0f5dc3
+[2026-06-13 19:48:47] Frame 141 finished.
+[2026-06-13 19:48:47] Prompt sent (Frame 142). PID: 72ffbd37-a1bf-4cd4-b0b5-f53b28706c61
+[2026-06-13 19:51:26] Frame 142 finished.
+[2026-06-13 19:51:27] Prompt sent (Frame 143). PID: 11732c87-d4f8-473e-a327-fc6c8e07c0b4
+[2026-06-13 19:54:06] Frame 143 finished.
+[2026-06-13 19:54:06] Prompt sent (Frame 144). PID: b697cee6-3c9d-469b-a3e5-08fd434ce7c1
+[2026-06-13 19:56:45] Frame 144 finished.
+[2026-06-13 19:56:46] Prompt sent (Frame 145). PID: a5ecd8d8-009f-418a-925b-2654a7b68ae0
+[2026-06-13 19:59:24] Frame 145 finished.
+[2026-06-13 19:59:24] Prompt sent (Frame 146). PID: 6fe02178-e70c-4678-87f1-39c2d7ee72eb
+[2026-06-13 20:02:03] Frame 146 finished.
+[2026-06-13 20:02:03] Prompt sent (Frame 147). PID: 2ea58708-c4db-406c-99e0-9819468f63cd
+[2026-06-13 20:04:41] Frame 147 finished.
+[2026-06-13 20:04:42] Prompt sent (Frame 148). PID: 0568215a-c23c-42a4-a2cf-3bfe911de19f
+[2026-06-13 20:07:20] Frame 148 finished.
+[2026-06-13 20:07:20] Prompt sent (Frame 149). PID: ee6eff29-ea91-423f-9d94-36ab0f567104
+[2026-06-13 20:09:58] Frame 149 finished.
+[2026-06-13 20:09:59] Prompt sent (Frame 150). PID: ec86262e-b65e-4527-b072-6b3a4b5a06ba
+[2026-06-13 20:12:37] Frame 150 finished.
+[2026-06-13 20:12:37] Visual Director: Evolving prompt based on frame 150...
+[2026-06-13 20:14:26] Prompt sent (Frame 151). PID: b5d86265-ec67-40e4-9a08-32fbde2ae4ff
+[2026-06-13 20:17:05] Frame 151 finished.
+[2026-06-13 20:17:06] Prompt sent (Frame 152). PID: ca110b9b-2b22-40c1-bbb2-4b41443e538b
+[2026-06-13 20:19:44] Frame 152 finished.
+[2026-06-13 20:19:44] Prompt sent (Frame 153). PID: 2a773aa5-64e5-4635-964a-e3037304c147
+[2026-06-13 20:22:24] Frame 153 finished.
+[2026-06-13 20:22:24] Prompt sent (Frame 154). PID: ab288ad8-106a-41f9-9a73-b9758a15b9c8
+[2026-06-13 20:25:05] Frame 154 finished.
+[2026-06-13 20:25:05] Prompt sent (Frame 155). PID: 342a7f9b-7fbd-41e6-8501-fdd208bb77bd
+[2026-06-13 20:27:43] Frame 155 finished.
+[2026-06-13 20:27:43] Prompt sent (Frame 156). PID: ad5b87b9-dda0-4e01-acbf-063af0092075
+[2026-06-13 20:30:21] Frame 156 finished.
+[2026-06-13 20:30:22] Prompt sent (Frame 157). PID: b25f406b-43aa-4a8f-ad4a-b7fde44035d9
+[2026-06-13 20:33:00] Frame 157 finished.
+[2026-06-13 20:33:00] Prompt sent (Frame 158). PID: 86625f3b-6789-490c-8628-722ec32edd81
+[2026-06-13 20:35:38] Frame 158 finished.
+[2026-06-13 20:35:39] Prompt sent (Frame 159). PID: 33234e5d-34d6-4622-b8c9-06d3fdf23f7d
+[2026-06-13 20:38:18] Frame 159 finished.
+[2026-06-13 20:38:18] Prompt sent (Frame 160). PID: d4523a9e-67ae-4bc2-8fe8-092d6f9aa6be
+[2026-06-13 20:40:57] Frame 160 finished.
+[2026-06-13 20:40:57] Prompt sent (Frame 161). PID: 0113191b-7054-494e-beb3-c21eaa892603
+[2026-06-13 20:43:36] Frame 161 finished.
+[2026-06-13 20:43:37] Prompt sent (Frame 162). PID: a0aba476-5f3a-444a-84dd-e3e9d79c5329
+[2026-06-13 20:46:16] Frame 162 finished.
+[2026-06-13 20:46:16] Prompt sent (Frame 163). PID: dd9307d7-7fe0-45dc-aee5-e9a3b3d25ce0
+[2026-06-13 20:48:54] Frame 163 finished.
+[2026-06-13 20:48:55] Prompt sent (Frame 164). PID: 4ae35aa8-070c-4e8f-a217-fe18ec238151
+[2026-06-13 20:51:34] Frame 164 finished.
+[2026-06-13 20:51:34] Prompt sent (Frame 165). PID: aaeaa4d8-8831-467f-bf1d-8a4b1bcd3d11
+[2026-06-13 20:54:13] Frame 165 finished.
+[2026-06-13 20:54:13] Prompt sent (Frame 166). PID: 432f4841-f278-432d-a4ba-a550aefaceba
+[2026-06-13 20:56:53] Frame 166 finished.
+[2026-06-13 20:56:53] Prompt sent (Frame 167). PID: 5b07edaa-625f-4382-9d25-3e70be664f8e
+[2026-06-13 20:59:32] Frame 167 finished.
+[2026-06-13 20:59:32] Prompt sent (Frame 168). PID: 92e29859-5503-4069-b384-84d7011a27fd
+[2026-06-13 21:02:12] Frame 168 finished.
+[2026-06-13 21:02:13] Prompt sent (Frame 169). PID: 555e50ab-ffed-4aff-ac3c-9ae90197d06e
+[2026-06-13 21:04:54] Frame 169 finished.
+[2026-06-13 21:04:54] Prompt sent (Frame 170). PID: b8429c42-24df-43ac-b69b-c977b5b32f00
+[2026-06-13 21:07:41] Frame 170 finished.
+[2026-06-13 21:07:41] Keyframe 171 applied. Redirecting Visual Director baseline to: ''Highly detailed NSA styled swirling, iridescent wormhole suspended amidst a tapestry of stars, planets, and nebulae; as ethereal, bioluminescent creatures glide through the void - their forms shifting between liquid, crystalline, and wispy states; lens flares from a vintage 50mm f/1.4 camera capture the scene in warm, golden light; fine, cosmic dust particles dance around the creatures' ethereal trails.'
+[2026-06-13 21:07:41] Prompt sent (Frame 171). PID: 911f4b08-99a8-4845-8f99-950c26b23dd6
+[2026-06-13 21:10:18] Frame 171 finished.
+[2026-06-13 21:10:19] Prompt sent (Frame 172). PID: 2cd2ce0a-dc5b-47b0-b095-f2aad12782b3
+[2026-06-13 21:13:02] Frame 172 finished.
+[2026-06-13 21:13:02] Prompt sent (Frame 173). PID: 72d01692-26f6-4330-9f97-8d6c7f61987c
+[2026-06-13 21:15:46] Frame 173 finished.
+[2026-06-13 21:15:46] Prompt sent (Frame 174). PID: 7d874376-4740-438b-b926-97d6c995b757
+[2026-06-13 21:18:29] Frame 174 finished.
+[2026-06-13 21:18:30] Prompt sent (Frame 175). PID: c01b4352-2976-4c9d-85c0-4905cb5aa8d4
+[2026-06-13 21:19:22] landscape.py
+[2026-06-13 21:19:22] Len Prompt: 33
+[2026-06-13 23:55:59] landscape.py
+[2026-06-13 23:56:00] Len Prompt: 33
+[2026-06-13 23:56:31] ENGINE STARTED: Entering render loop.
+[2026-06-13 23:56:31] Resume: Detected frame 174 on disk. Starting at 175
+[2026-06-13 23:56:31] Error uploading init image: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /upload/image (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:56:31] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:56:36] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:56:41] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:56:46] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:56:51] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:56:56] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:01] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:06] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:11] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:16] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:21] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:26] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:31] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:36] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:41] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:46] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:51] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:57:56] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:01] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:06] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:11] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:16] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:21] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:26] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:31] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:36] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:41] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:46] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:51] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:58:56] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:01] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:06] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:11] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:16] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:21] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:26] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:31] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:36] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:41] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:46] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:51] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-13 23:59:56] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:01] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:00:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:01:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:02:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:03:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:04:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:05:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:06:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:07:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:08:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:37] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:42] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:47] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:52] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:09:57] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:02] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:07] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:12] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:17] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:22] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:27] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:32] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:38] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:43] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:48] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:53] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:10:58] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:03] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:08] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:13] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:18] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:23] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:28] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:33] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:38] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:43] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:48] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:53] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:11:58] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:03] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:08] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:13] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:18] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:23] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:28] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:33] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:38] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:43] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:48] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:53] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:12:58] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:03] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:08] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:13] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:18] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:23] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:28] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:33] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:38] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:43] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:48] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:53] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:13:58] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:03] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:08] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:13] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:18] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:23] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:28] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:33] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:38] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:43] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:48] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:53] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:14:58] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:03] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:08] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:13] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:18] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:23] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:28] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:33] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:38] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:43] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:48] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:53] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:15:58] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:16:03] Error sending prompt: HTTPConnectionPool(host='192.168.1.41', port=5001): Max retries exceeded with url: /prompt (Caused by NewConnectionError("HTTPConnection(host='192.168.1.41', port=5001): Failed to establish a new connection: [Errno 111] Connection refused"))
+[2026-06-14 00:16:08] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:13] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:18] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:23] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:28] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:33] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:38] Error sending prompt: 'prompt_id'
+[2026-06-14 00:16:47] landscape.py
+[2026-06-14 00:16:47] Len Prompt: 33
+[2026-06-14 00:17:58] ENGINE STARTED: Entering render loop.
+[2026-06-14 00:17:58] Resume: Detected frame 174 on disk. Starting at 175
+[2026-06-14 00:17:58] Prompt sent (Frame 175). PID: 597d51c2-ac94-4ccf-b743-7973d79e2bc7
+[2026-06-14 00:20:39] Frame 175 finished.
+[2026-06-14 00:20:41] Visual Director: Evolving prompt based on frame 175...
+[2026-06-14 00:21:59] Visual Director: New base prompt set -> 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris'
+[2026-06-14 00:21:59] Prompt sent (Frame 176). PID: a28d4705-796f-482e-bcfa-84e1cdb89800
+[2026-06-14 00:24:50] Frame 176 finished.
+[2026-06-14 00:24:51] Prompt sent (Frame 177). PID: d81e68fb-0db4-482e-b91e-3945824c363c
+[2026-06-14 00:27:18] Frame 177 finished.
+[2026-06-14 00:27:18] Prompt sent (Frame 178). PID: c66e6c2a-02fc-4273-a5b1-7d65e33c4e8b
+[2026-06-14 00:29:46] Frame 178 finished.
+[2026-06-14 00:29:47] Prompt sent (Frame 179). PID: f07737c0-228b-4c3d-ae46-63e6a60b36ea
+[2026-06-14 00:32:15] Frame 179 finished.
+[2026-06-14 00:32:15] Prompt sent (Frame 180). PID: bb11abdd-8240-471a-b0d6-5d319acb9e92
+[2026-06-14 00:34:45] Frame 180 finished.
+[2026-06-14 00:34:46] Prompt sent (Frame 181). PID: 8f74ac5e-1050-4171-ba27-74e0e0c52488
+[2026-06-14 00:37:15] Frame 181 finished.
+[2026-06-14 00:37:15] Prompt sent (Frame 182). PID: 07355291-3293-4fd4-a586-1f405108869b
+[2026-06-14 00:39:42] Frame 182 finished.
+[2026-06-14 00:39:43] Prompt sent (Frame 183). PID: 49c44556-7cf2-4f88-bb8d-8be17c18ab80
+[2026-06-14 00:42:11] Frame 183 finished.
+[2026-06-14 00:42:11] Prompt sent (Frame 184). PID: 75a7933b-74d2-4ddd-9d2a-29ead873a7f2
+[2026-06-14 00:44:39] Frame 184 finished.
+[2026-06-14 00:44:39] Prompt sent (Frame 185). PID: 22d1c7a7-8fcd-4a73-8d60-f85a1f3c95cf
+[2026-06-14 00:47:08] Frame 185 finished.
+[2026-06-14 00:47:08] Prompt sent (Frame 186). PID: a96e9110-ccea-4ee9-88b3-e7fb0fd3858e
+[2026-06-14 00:49:36] Frame 186 finished.
+[2026-06-14 00:49:36] Prompt sent (Frame 187). PID: c65129b7-9b03-4d0a-9468-734c24891014
+[2026-06-14 00:52:03] Frame 187 finished.
+[2026-06-14 00:52:04] Prompt sent (Frame 188). PID: b50ba70c-b2d6-4c08-806a-785652a54f03
+[2026-06-14 00:54:33] Frame 188 finished.
+[2026-06-14 00:54:33] Prompt sent (Frame 189). PID: 2126b2fa-94f7-43e4-be79-ee696a858ccb
+[2026-06-14 00:57:01] Frame 189 finished.
+[2026-06-14 00:57:01] Prompt sent (Frame 190). PID: 24ee4193-318f-4a95-bbdc-4c30dc524eb2
+[2026-06-14 00:59:30] Frame 190 finished.
+[2026-06-14 00:59:30] Prompt sent (Frame 191). PID: bfae54f5-1ed7-4315-aeca-f57c0dd51686
+[2026-06-14 01:01:59] Frame 191 finished.
+[2026-06-14 01:01:59] Prompt sent (Frame 192). PID: 847cb994-394e-43df-b9e8-fd9f15b6782b
+[2026-06-14 01:04:26] Frame 192 finished.
+[2026-06-14 01:04:27] Prompt sent (Frame 193). PID: bc0beb3a-a9f3-4426-9eff-c4474adabb5f
+[2026-06-14 01:06:55] Frame 193 finished.
+[2026-06-14 01:06:55] Prompt sent (Frame 194). PID: 9a6d5787-3639-4cd1-a45e-aa1df9a9542d
+[2026-06-14 01:09:24] Frame 194 finished.
+[2026-06-14 01:09:24] Prompt sent (Frame 195). PID: 162b754d-2549-4732-9c6d-6dc6fb19f07d
+[2026-06-14 01:11:52] Frame 195 finished.
+[2026-06-14 01:11:53] Prompt sent (Frame 196). PID: 91316956-907d-481e-a471-2ef4acb74e7a
+[2026-06-14 01:14:21] Frame 196 finished.
+[2026-06-14 01:14:21] Prompt sent (Frame 197). PID: e2bfecbc-449d-4be0-8bd6-fb7a17bce3f2
+[2026-06-14 01:16:49] Frame 197 finished.
+[2026-06-14 01:16:49] Prompt sent (Frame 198). PID: 8c2d6489-8d60-48b5-b0ca-1e031baf0919
+[2026-06-14 01:19:17] Frame 198 finished.
+[2026-06-14 01:19:18] Prompt sent (Frame 199). PID: 4e58b0f6-5804-4292-859d-d2d847926ea3
+[2026-06-14 01:21:46] Frame 199 finished.
+[2026-06-14 01:21:46] Prompt sent (Frame 200). PID: eeb19348-8c3a-48b1-8616-a81caf62da38
+[2026-06-14 01:24:17] Frame 200 finished.
+[2026-06-14 01:24:17] Visual Director: Evolving prompt based on frame 200...
+[2026-06-14 01:25:12] Visual Director: New base prompt set -> ''Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded by space, stars, planets, nebula, dust and space debris'.'
+[2026-06-14 01:25:12] Prompt sent (Frame 201). PID: 02d52ac3-3b8c-4098-8cb4-3765847f36de
+[2026-06-14 01:27:50] Frame 201 finished.
+[2026-06-14 01:27:50] Prompt sent (Frame 202). PID: 3a6a64b1-49d9-44d5-a507-f4e7a1b2f8b7
+[2026-06-14 01:30:20] Frame 202 finished.
+[2026-06-14 01:30:20] Prompt sent (Frame 203). PID: 5d4c5056-5eea-4f4a-a32a-2385d06a1cc8
+[2026-06-14 01:32:50] Frame 203 finished.
+[2026-06-14 01:32:50] Prompt sent (Frame 204). PID: 4e00fc94-5af1-44bb-a94d-f64fa2801387
+[2026-06-14 01:35:18] Frame 204 finished.
+[2026-06-14 01:35:18] Prompt sent (Frame 205). PID: 0ad988fa-8943-4efa-9b8c-2c62d732c07c
+[2026-06-14 01:37:47] Frame 205 finished.
+[2026-06-14 01:37:48] Prompt sent (Frame 206). PID: 2ec34f8b-883d-43df-ba14-959723bad683
+[2026-06-14 01:40:16] Frame 206 finished.
+[2026-06-14 01:40:16] Prompt sent (Frame 207). PID: f107721f-62d2-4458-a642-a419c7194d89
+[2026-06-14 01:42:44] Frame 207 finished.
+[2026-06-14 01:42:45] Prompt sent (Frame 208). PID: d102f7b0-1d4f-49ca-80bc-c87fad70a63a
+[2026-06-14 01:45:13] Frame 208 finished.
+[2026-06-14 01:45:13] Prompt sent (Frame 209). PID: a4f98729-2b43-45f5-bb6e-d3f4e9d35582
+[2026-06-14 01:47:41] Frame 209 finished.
+[2026-06-14 01:47:41] Prompt sent (Frame 210). PID: 61949f49-8abf-4682-8d30-d02ca8b1c503
+[2026-06-14 01:50:09] Frame 210 finished.
+[2026-06-14 01:50:10] Prompt sent (Frame 211). PID: 119b18d4-a2ef-43de-b63b-898e19f973ce
+[2026-06-14 01:52:42] Frame 211 finished.
+[2026-06-14 01:52:42] Prompt sent (Frame 212). PID: b6a13ef4-b3f2-4058-a09b-5e1d4139fdbb
+[2026-06-14 01:55:41] Frame 212 finished.
+[2026-06-14 01:55:42] Prompt sent (Frame 213). PID: 9cdb66fe-f916-4600-9f70-7d7cb0d4581c
+[2026-06-14 01:58:12] Frame 213 finished.
+[2026-06-14 01:58:12] Prompt sent (Frame 214). PID: c767e11b-25b0-4497-916e-ae2f08df98a2
+[2026-06-14 02:00:45] Frame 214 finished.
+[2026-06-14 02:00:46] Prompt sent (Frame 215). PID: 54168835-2a81-4885-8121-88d39a59b769
+[2026-06-14 02:03:14] Frame 215 finished.
+[2026-06-14 02:03:14] Prompt sent (Frame 216). PID: ef6b849e-f211-4c6e-96ec-25e7efef6d08
+[2026-06-14 02:05:46] Frame 216 finished.
+[2026-06-14 02:05:46] Prompt sent (Frame 217). PID: ce9d7c6d-3b79-45ed-ab4e-2d4d3dde391c
+[2026-06-14 02:08:14] Frame 217 finished.
+[2026-06-14 02:08:15] Prompt sent (Frame 218). PID: 0b3a37ca-3067-40d3-967c-0a91a157ab01
+[2026-06-14 02:10:48] Frame 218 finished.
+[2026-06-14 02:10:48] Prompt sent (Frame 219). PID: 1243d02a-a41b-4848-9b77-3f1cf7598b83
+[2026-06-14 02:13:18] Frame 219 finished.
+[2026-06-14 02:13:19] Prompt sent (Frame 220). PID: 87af7496-aece-462a-8809-8f9755d31e09
+[2026-06-14 02:15:51] Frame 220 finished.
+[2026-06-14 02:15:51] Prompt sent (Frame 221). PID: a79e2d1c-ccbe-48c6-85ff-d421483eb2ad
+[2026-06-14 02:18:20] Frame 221 finished.
+[2026-06-14 02:18:20] Prompt sent (Frame 222). PID: 749a60c0-f3b0-4b83-8761-2709e182b5a4
+[2026-06-14 02:20:50] Frame 222 finished.
+[2026-06-14 02:20:51] Prompt sent (Frame 223). PID: ad59730c-ea59-427c-8024-a43ab9df6d75
+[2026-06-14 02:23:19] Frame 223 finished.
+[2026-06-14 02:23:19] Prompt sent (Frame 224). PID: 2124c2f0-95a9-48ac-bf87-45a84365af2c
+[2026-06-14 02:25:52] Frame 224 finished.
+[2026-06-14 02:25:52] Prompt sent (Frame 225). PID: 9d9da1b6-da73-4e28-8fef-f09ebfe15cf8
+[2026-06-14 02:28:20] Frame 225 finished.
+[2026-06-14 02:28:21] Visual Director: Evolving prompt based on frame 225...
+[2026-06-14 02:29:35] Visual Director: New base prompt set -> '''Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded by space, stars, planets, nebula, dust and space debris.''.'
+[2026-06-14 02:29:35] Prompt sent (Frame 226). PID: 2b4f0230-88a4-4557-a2f5-8af07a791b33
+[2026-06-14 02:32:45] Frame 226 finished.
+[2026-06-14 02:32:46] Prompt sent (Frame 227). PID: bd06e35b-ad9c-40f2-92e6-83b5c1abe6d2
+[2026-06-14 02:35:15] Frame 227 finished.
+[2026-06-14 02:35:15] Prompt sent (Frame 228). PID: eb453c59-2c52-4057-80b3-d9cf1756377c
+[2026-06-14 02:37:44] Frame 228 finished.
+[2026-06-14 02:37:45] Prompt sent (Frame 229). PID: 80e600b2-af29-4943-b936-bbdccc6f8afd
+[2026-06-14 02:40:15] Frame 229 finished.
+[2026-06-14 02:40:15] Prompt sent (Frame 230). PID: 4d307341-f1a3-4c52-85de-1b0dad6fe579
+[2026-06-14 02:42:46] Frame 230 finished.
+[2026-06-14 02:42:46] Prompt sent (Frame 231). PID: 3dcc5823-94f5-4316-8ad8-455a1b7a0a37
+[2026-06-14 02:45:16] Frame 231 finished.
+[2026-06-14 02:45:17] Prompt sent (Frame 232). PID: 501a2dc5-ba7b-40e1-9c01-7730aa82bdb7
+[2026-06-14 02:47:47] Frame 232 finished.
+[2026-06-14 02:47:47] Prompt sent (Frame 233). PID: 68dbdd48-46e4-4f7f-8ab0-39fcda91a8b9
+[2026-06-14 02:50:17] Frame 233 finished.
+[2026-06-14 02:50:17] Prompt sent (Frame 234). PID: 2847a11b-0904-438b-ba4b-eb017d257f17
+[2026-06-14 02:52:46] Frame 234 finished.
+[2026-06-14 02:52:47] Prompt sent (Frame 235). PID: 103c348c-f661-4c69-abf8-4ced3d3f0253
+[2026-06-14 02:55:17] Frame 235 finished.
+[2026-06-14 02:55:17] Prompt sent (Frame 236). PID: 06997989-ecff-4e8d-a4b3-8a593de89093
+[2026-06-14 02:57:47] Frame 236 finished.
+[2026-06-14 02:57:47] Prompt sent (Frame 237). PID: 6200079b-466d-4889-a770-401b901959b7
+[2026-06-14 03:00:17] Frame 237 finished.
+[2026-06-14 03:00:18] Prompt sent (Frame 238). PID: 88f53d46-4d6b-4a8c-9485-5adfe1b4f7ac
+[2026-06-14 03:02:48] Frame 238 finished.
+[2026-06-14 03:02:48] Prompt sent (Frame 239). PID: d703db63-ebc9-454f-9109-2f8ef2e13c39
+[2026-06-14 03:05:19] Frame 239 finished.
+[2026-06-14 03:05:19] Prompt sent (Frame 240). PID: 762eb8c2-4bee-4b64-9850-260ad18a4281
+[2026-06-14 03:07:51] Frame 240 finished.
+[2026-06-14 03:07:51] Prompt sent (Frame 241). PID: 5be46d8b-144e-4ac4-86df-e0002f3818b6
+[2026-06-14 03:10:21] Frame 241 finished.
+[2026-06-14 03:10:21] Prompt sent (Frame 242). PID: f191721a-4a13-4b7f-8cf8-94127b99bc58
+[2026-06-14 03:12:51] Frame 242 finished.
+[2026-06-14 03:12:52] Prompt sent (Frame 243). PID: afb6c72b-5ed7-4602-964e-33f970af445e
+[2026-06-14 03:15:22] Frame 243 finished.
+[2026-06-14 03:15:22] Prompt sent (Frame 244). PID: 1445331e-5ef8-4e7a-b031-5546b6c7a5f6
+[2026-06-14 03:17:52] Frame 244 finished.
+[2026-06-14 03:17:52] Prompt sent (Frame 245). PID: 06b64099-bd80-4c8b-b36a-c352310fc2d3
+[2026-06-14 03:20:21] Frame 245 finished.
+[2026-06-14 03:20:22] Prompt sent (Frame 246). PID: 225916a2-47c8-4ed8-b21e-14fec93f26fb
+[2026-06-14 03:22:52] Frame 246 finished.
+[2026-06-14 03:22:52] Prompt sent (Frame 247). PID: 100fa4e7-2c73-4b5a-8790-df3927b0d508
+[2026-06-14 03:25:22] Frame 247 finished.
+[2026-06-14 03:25:22] Prompt sent (Frame 248). PID: 8464e888-cf42-4eb6-bf59-730fb70afd1e
+[2026-06-14 03:27:51] Frame 248 finished.
+[2026-06-14 03:27:52] Prompt sent (Frame 249). PID: f368862b-ee4f-4ceb-9cee-b2323fcc5a59
+[2026-06-14 03:30:21] Frame 249 finished.
+[2026-06-14 03:30:21] Prompt sent (Frame 250). PID: 403649c7-cbd2-4604-97ad-f781f160cfe9
+[2026-06-14 03:32:51] Frame 250 finished.
+[2026-06-14 03:32:51] Visual Director: Evolving prompt based on frame 250...
+[2026-06-14 03:34:03] Prompt sent (Frame 251). PID: a52932e1-2dcc-40ff-9ce0-ca70b6eaca13
+[2026-06-14 03:36:36] Frame 251 finished.
+[2026-06-14 03:36:36] Prompt sent (Frame 252). PID: 1902a795-74fa-434b-b4ff-0b0b0d43b7ea
+[2026-06-14 03:39:07] Frame 252 finished.
+[2026-06-14 03:39:07] Prompt sent (Frame 253). PID: fc580471-c475-4218-aec8-64a85a00b841
+[2026-06-14 03:41:39] Frame 253 finished.
+[2026-06-14 03:41:39] Prompt sent (Frame 254). PID: 196cead3-d0e1-4d73-b69b-a2e9407c6bb7
+[2026-06-14 03:44:08] Frame 254 finished.
+[2026-06-14 03:44:08] Prompt sent (Frame 255). PID: 51590cc5-8e6c-46a4-a100-93ea98b9b997
+[2026-06-14 03:46:39] Frame 255 finished.
+[2026-06-14 03:46:39] Prompt sent (Frame 256). PID: 84e361de-831b-4a02-a579-970c9404c915
+[2026-06-14 03:49:11] Frame 256 finished.
+[2026-06-14 03:49:11] Prompt sent (Frame 257). PID: 5c2ec0fb-a56c-4f1e-a3f4-6e8839a71c8d
+[2026-06-14 03:51:41] Frame 257 finished.
+[2026-06-14 03:51:41] Prompt sent (Frame 258). PID: a7af9ede-f9f7-4ec1-b270-b264ebc1cb2e
+[2026-06-14 03:54:11] Frame 258 finished.
+[2026-06-14 03:54:12] Prompt sent (Frame 259). PID: f59cb0da-2cb7-47f3-813b-9d4347a6c16e
+[2026-06-14 03:56:42] Frame 259 finished.
+[2026-06-14 03:56:42] Prompt sent (Frame 260). PID: 3f2b4963-378d-4a93-945d-c20624feafa6
+[2026-06-14 03:59:12] Frame 260 finished.
+[2026-06-14 03:59:12] Prompt sent (Frame 261). PID: 36d9c0cf-ee9c-46c8-8963-a8a2d19656f4
+[2026-06-14 04:01:42] Frame 261 finished.
+[2026-06-14 04:01:43] Prompt sent (Frame 262). PID: cf66058a-3265-4004-a0f8-40ae66c90fa4
+[2026-06-14 04:04:13] Frame 262 finished.
+[2026-06-14 04:04:13] Prompt sent (Frame 263). PID: 8c29a735-563e-4d6a-9b6c-8eb864c9058c
+[2026-06-14 04:06:43] Frame 263 finished.
+[2026-06-14 04:06:43] Prompt sent (Frame 264). PID: cfbef5ba-00f4-4a5d-9a21-07111a1749f3
+[2026-06-14 04:09:13] Frame 264 finished.
+[2026-06-14 04:09:14] Prompt sent (Frame 265). PID: ec105d52-232b-49a7-ad56-e14426a2b4cc
+[2026-06-14 04:11:44] Frame 265 finished.
+[2026-06-14 04:11:44] Prompt sent (Frame 266). PID: 81fdac54-15da-4364-b3ae-84b1beca7927
+[2026-06-14 04:14:15] Frame 266 finished.
+[2026-06-14 04:14:15] Prompt sent (Frame 267). PID: d8efcfc9-50e3-4b83-98ec-7c95966d62f7
+[2026-06-14 04:16:45] Frame 267 finished.
+[2026-06-14 04:16:46] Prompt sent (Frame 268). PID: 0f44aa44-fed7-4ec1-8d4f-7b68b3a9bf86
+[2026-06-14 04:19:16] Frame 268 finished.
+[2026-06-14 04:19:16] Prompt sent (Frame 269). PID: 8bb8a8be-c69b-4293-ac03-4f0a3fc16762
+[2026-06-14 04:21:50] Frame 269 finished.
+[2026-06-14 04:21:50] Prompt sent (Frame 270). PID: d78195c4-036e-4d3c-a50b-0e8a4ebb9450
+[2026-06-14 04:21:53] Resizing teleport image from (336, 512) to (340, 512)
+[2026-06-14 04:21:53] Teleport image set: teleport (19).png
+[2026-06-14 04:24:23] Frame 270 finished.
+[2026-06-14 04:24:24] Teleporting! Using external image for frame 271
+[2026-06-14 04:24:24] Prompt sent (Frame 271). PID: c302d267-145d-4f91-853b-4e44e102fc1a
+[2026-06-14 04:27:28] landscape.py
+[2026-06-14 04:27:28] Len Prompt: 33
+[2026-06-14 04:27:49] ENGINE STARTED: Entering render loop.
+[2026-06-14 04:27:49] Resume: Detected frame 270 on disk. Starting at 271
+[2026-06-14 04:27:50] Prompt sent (Frame 271). PID: bbed25ea-f782-4c70-bb6f-2dea8f183805
+[2026-06-14 04:30:49] Frame 271 finished.
+[2026-06-14 04:30:50] Prompt sent (Frame 272). PID: ea7e69b5-fd0a-42e8-a1d1-d996acc28783
+[2026-06-14 04:33:51] Frame 272 finished.
+[2026-06-14 04:33:51] Prompt sent (Frame 273). PID: a8611ad1-e989-4b79-812e-301b98932b09
+[2026-06-14 04:36:37] Frame 273 finished.
+[2026-06-14 04:36:37] Prompt sent (Frame 274). PID: 917f6c7c-986c-414d-9b9a-c1a6d5d35d1a
+[2026-06-14 04:40:48] Frame 274 finished.
+[2026-06-14 04:40:49] Prompt sent (Frame 275). PID: 02c89c61-96b9-4149-8b11-58f177e5fe77
+[2026-06-14 04:45:02] Frame 275 finished.
+[2026-06-14 04:45:03] Visual Director: Evolving prompt based on frame 275...
+[2026-06-14 04:45:55] Prompt sent (Frame 276). PID: 31df99e4-4ccb-4b1b-878b-1a92fb9ba732
+[2026-06-14 04:49:26] Frame 276 finished.
+[2026-06-14 04:49:26] Prompt sent (Frame 277). PID: 93c75efb-a362-448b-a77a-062761356c88
+[2026-06-14 04:51:30] Prompt enhanced by llama3.2:3b: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>' -> 'A swirling vortex of iridescent starlight envelops a mystical star-gate, center stage amidst an ethereal expanse. Semi-translucent, serpentine creatures writhe like celestial sea monsters, surrounded by stardust, shattered asteroids, and glowing nebulae. Soft, golden light casts an otherworldly glow on wispy tendrils of gas, amidst cosmic dust and glittering space debris.'
+[2026-06-14 04:55:43] Frame 277 finished.
+[2026-06-14 04:55:44] Prompt sent (Frame 278). PID: fbbfe911-64ab-4fc9-8dc5-46b1535ca961
+[2026-06-14 04:57:40] landscape.py
+[2026-06-14 04:57:40] Len Prompt: 33
+[2026-06-14 05:00:00] ENGINE STARTED: Entering render loop.
+[2026-06-14 05:00:00] Resume: Detected frame 277 on disk. Starting at 278
+[2026-06-14 05:00:00] Prompt sent (Frame 278). PID: 2e900a2a-31a2-4d89-b901-69141fb7f6cb
+[2026-06-14 05:02:36] Prompt enhanced by qwen3:8b: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>' -> 'Hyper-detailed star-gate radiating neon light, semi-transparent space creatures with bioluminescent scales swirling through cosmic dust and nebula, surrounded by glowing stars, planets, and debris. Cyberpunk-meets-mythical art style, wide-angle lens, vivid textures and atmospheric glow. <lora:more_details:.8>'
+[2026-06-14 05:05:07] Frame 278 finished.
+[2026-06-14 05:05:13] Prompt sent (Frame 279). PID: 957fad07-aa94-4ff7-9b1f-9791caa6af45
+[2026-06-14 05:08:38] Frame 279 finished.
+[2026-06-14 05:08:38] Prompt sent (Frame 280). PID: 6a9d1037-d491-4e02-bf85-e65ef3f9a706
+[2026-06-14 05:13:12] Prompt enhanced by qwen3:8b: 'Hyper-detailed star-gate radiating neon light, semi-transparent space creatures with bioluminescent scales swirling through cosmic dust and nebula, surrounded by glowing stars, planets, and debris. Cyberpunk-meets-mythical art style, wide-angle lens, vivid textures and atmospheric glow. dense starfields, colorful swirling nebulae, distant galaxy clusters, glowing cosmic dust, vibrant nebulous gas, deep space photography' -> 'Hyper-detailed star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing. Semi-transparent serpentine creatures with iridescent bioluminescent scales swirl through cosmic dust and prismatic nebulae, glowing stars, planets, and debris. Cyberpunk-mythical art style, wide-angle lens, vivid textures, atmospheric glow, dense starfields, swirling nebulae, galaxy clusters, and luminous cosmic gas. Deep space photography, hyperrealistic'
+[2026-06-14 05:14:56] Frame 280 finished.
+[2026-06-14 05:14:57] Prompt sent (Frame 281). PID: 9971568f-0138-4bcf-8203-2b2f06f64b2b
+[2026-06-14 05:18:09] Frame 281 finished.
+[2026-06-14 05:18:09] Keyframe 282 applied. Redirecting Visual Director baseline to: 'Hyper-detailed star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing. Semi-transparent serpentine creatures with iridescent bioluminescent scales swirl through cosmic dust and prismatic nebulae, glowing stars, planets, and debris. Cyberpunk-mythical art style, wide-angle lens, vivid textures, atmospheric glow, dense starfields, swirling nebulae, galaxy clusters, and luminous cosmic gas. Deep space photography, hyperrealistic'
+[2026-06-14 05:18:09] Prompt sent (Frame 282). PID: b8e5d5c9-8180-4ed4-a4e6-3537bd5776bd
+[2026-06-14 05:21:03] Frame 282 finished.
+[2026-06-14 05:21:03] Prompt sent (Frame 283). PID: b172178b-908a-41fb-b6ae-a48662a7cfe6
+[2026-06-14 05:23:55] Frame 283 finished.
+[2026-06-14 05:23:56] Prompt sent (Frame 284). PID: 825cf55e-27a5-43ce-9b27-c0076e38fb98
+[2026-06-14 05:26:49] Frame 284 finished.
+[2026-06-14 05:26:49] Prompt sent (Frame 285). PID: 52ff000b-6cb2-4f2d-8465-4d3a2c0eb244
+[2026-06-14 05:29:41] Frame 285 finished.
+[2026-06-14 05:29:41] Prompt sent (Frame 286). PID: e43a3f01-4aed-421a-b6fc-a7d9fa098ee0
+[2026-06-14 05:32:32] Frame 286 finished.
+[2026-06-14 05:32:33] Prompt sent (Frame 287). PID: a6e7fb7e-0060-4c30-a333-6034027f20ce
+[2026-06-14 05:35:27] Frame 287 finished.
+[2026-06-14 05:35:27] Prompt sent (Frame 288). PID: 77d41556-b383-4869-b499-98dfc570e556
+[2026-06-14 05:38:19] Frame 288 finished.
+[2026-06-14 05:38:20] Prompt sent (Frame 289). PID: 9ecdcd5f-446d-4fc7-8871-199fae0397e2
+[2026-06-14 05:41:11] Frame 289 finished.
+[2026-06-14 05:41:11] Prompt sent (Frame 290). PID: b57fcf67-a8e1-4203-8813-22ac7bd9d1ad
+[2026-06-14 05:44:02] Frame 290 finished.
+[2026-06-14 05:44:03] Prompt sent (Frame 291). PID: cf5b5089-cf32-421c-ad1c-5a10aa44b760
+[2026-06-14 05:46:54] Frame 291 finished.
+[2026-06-14 05:46:55] Prompt sent (Frame 292). PID: fa87aaff-0889-4421-980d-ade9f22dfcf7
+[2026-06-14 05:49:46] Frame 292 finished.
+[2026-06-14 05:49:47] Prompt sent (Frame 293). PID: 29f97443-1b65-417e-aec2-35a23f508488
+[2026-06-14 05:52:36] Frame 293 finished.
+[2026-06-14 05:52:36] Prompt sent (Frame 294). PID: bebd8ddd-d2a6-4c75-8176-ec5bde959e55
+[2026-06-14 05:55:27] Frame 294 finished.
+[2026-06-14 05:55:28] Prompt sent (Frame 295). PID: 49468ad5-3104-46f2-9b7f-49e58e5d2435
+[2026-06-14 05:58:19] Frame 295 finished.
+[2026-06-14 05:58:20] Prompt sent (Frame 296). PID: ad66c67b-8fcf-4294-91a7-35b791e25c78
+[2026-06-14 06:01:09] Frame 296 finished.
+[2026-06-14 06:01:09] Prompt sent (Frame 297). PID: 8e5c1671-87a0-441d-8114-59d8ba011419
+[2026-06-14 06:03:59] Frame 297 finished.
+[2026-06-14 06:04:00] Prompt sent (Frame 298). PID: 85d56538-eb0f-4ad1-af67-23b4f0955917
+[2026-06-14 06:06:53] Frame 298 finished.
+[2026-06-14 06:06:53] Prompt sent (Frame 299). PID: d5d6dabd-0524-4d8b-8508-4ead5fbc454c
+[2026-06-14 06:09:46] Frame 299 finished.
+[2026-06-14 06:09:47] Prompt sent (Frame 300). PID: 83787f94-9fc7-408b-8d03-3feb55824b7b
+[2026-06-14 06:12:40] Frame 300 finished.
+[2026-06-14 06:12:40] Visual Director: Evolving prompt based on frame 300...
+[2026-06-14 06:13:48] Visual Director: Image description -> 'urn of purple and blue gases swirls around a black hole, with white stars scattered throughout the spiral galaxy'
+[2026-06-14 06:13:48] Visual Director: New base prompt set -> 'Hyper-detailed star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing. Semi-transparent serpentine creatures with iridescent bioluminescent scales swirl through cosmic dust and prismatic nebulae, glowing stars, planets, and debris. Cyberpunk-mythical art style, wide-angle lens, vivid textures, atmospheric glow, dense starfields, swirling nebulae, galaxy clusters, and luminous cosmic gas. Deep space photography, hyperrealistic, urn of purple and blue gases swirls around a black hole, with white stars scattered throughout the spiral galaxy'
+[2026-06-14 06:13:48] Prompt sent (Frame 301). PID: ad8a84f9-404f-468a-b38b-2a1cb1eac396
+[2026-06-14 06:16:47] Frame 301 finished.
+[2026-06-14 06:16:48] Prompt sent (Frame 302). PID: 5cc861c4-8f7c-41de-9c93-c27327a3ca3d
+[2026-06-14 06:19:44] Frame 302 finished.
+[2026-06-14 06:19:44] Prompt sent (Frame 303). PID: 0cc5d7e8-673a-4b6d-96c5-8accd0c38a15
+[2026-06-14 06:22:40] Frame 303 finished.
+[2026-06-14 06:22:41] Prompt sent (Frame 304). PID: e3dc4ff6-4139-49c0-872d-9c274e7344a2
+[2026-06-14 06:25:33] Frame 304 finished.
+[2026-06-14 06:25:33] Prompt sent (Frame 305). PID: 541ac26c-4b38-4fe0-bf3c-bc7c2c8b85a4
+[2026-06-14 06:28:27] Frame 305 finished.
+[2026-06-14 06:28:28] Prompt sent (Frame 306). PID: d65c98e1-fbff-4f0d-8e75-2ec25aacf6c5
+[2026-06-14 06:31:23] Frame 306 finished.
+[2026-06-14 06:31:23] Prompt sent (Frame 307). PID: 05753820-e0df-41e6-8952-20a7d970f273
+[2026-06-14 06:34:20] Frame 307 finished.
+[2026-06-14 06:34:21] Prompt sent (Frame 308). PID: 6cee53a2-399b-499e-9800-a4fa25f53737
+[2026-06-14 06:37:12] Frame 308 finished.
+[2026-06-14 06:37:12] Prompt sent (Frame 309). PID: ca97ecf6-853c-460d-8290-55da09f2d019
+[2026-06-14 06:40:01] Frame 309 finished.
+[2026-06-14 06:40:02] Prompt sent (Frame 310). PID: fa6bc314-613d-4adc-ab57-1b308689c5c9
+[2026-06-14 06:42:52] Frame 310 finished.
+[2026-06-14 06:42:52] Prompt sent (Frame 311). PID: 79a4f4dd-d82e-4efc-a262-0b4bf0796796
+[2026-06-14 06:45:42] Frame 311 finished.
+[2026-06-14 06:45:43] Prompt sent (Frame 312). PID: e39fde58-4f11-4bc7-8018-ddd3b3339589
+[2026-06-14 06:48:32] Frame 312 finished.
+[2026-06-14 06:48:32] Prompt sent (Frame 313). PID: 5f25ac99-8c2d-4fd7-9928-be9447330e8c
+[2026-06-14 06:51:22] Frame 313 finished.
+[2026-06-14 06:51:22] Prompt sent (Frame 314). PID: 07c0844c-7ced-476e-844a-ee84d7fc40ef
+[2026-06-14 06:54:13] Frame 314 finished.
+[2026-06-14 06:54:14] Prompt sent (Frame 315). PID: 65f6abf5-1009-4058-afe5-9eb109705ab9
+[2026-06-14 06:57:06] Frame 315 finished.
+[2026-06-14 06:57:06] Prompt sent (Frame 316). PID: 31b0d0b8-c791-45f3-8b90-db9a4c0d0704
+[2026-06-14 06:59:59] Frame 316 finished.
+[2026-06-14 07:00:00] Prompt sent (Frame 317). PID: 38df4a41-7001-49a1-b59e-295dbf2593d5
+[2026-06-14 07:02:53] Frame 317 finished.
+[2026-06-14 07:02:53] Prompt sent (Frame 318). PID: ab8e005b-a8f0-4add-91a7-70e14a90835b
+[2026-06-14 07:05:46] Frame 318 finished.
+[2026-06-14 07:05:47] Prompt sent (Frame 319). PID: b81df3d4-e819-4d55-94c6-869fd2bbd40d
+[2026-06-14 07:08:40] Frame 319 finished.
+[2026-06-14 07:08:40] Prompt sent (Frame 320). PID: f5cd143e-4fc0-4e94-a46e-1963cec06fbb
+[2026-06-14 07:11:39] Frame 320 finished.
+[2026-06-14 07:11:39] Visual Director: Evolving prompt based on frame 320...
+[2026-06-14 07:12:32] Visual Director: Image description -> 'urn of purple and pink light emanating from the center, surrounded by blue and white swirls'
+[2026-06-14 07:12:32] Visual Director: New base prompt set -> 'Hyper-detailed star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing. Semi-transparent serpentine creatures with iridescent bioluminescent scales swirl through cosmic dust and prismatic nebulae, glowing stars, planets, and debris. Cyberpunk-mythical art style, wide-angle lens, vivid textures, atmospheric glow, dense starfields, swirling nebulae, galaxy clusters, and luminous cosmic gas. Deep space photography, hyperrealistic, urn of purple and pink light emanating from the center, surrounded by blue and white swirls'
+[2026-06-14 07:12:32] Prompt sent (Frame 321). PID: 7b277224-c741-4b2b-88e5-fa596ddfbaf4
+[2026-06-14 07:15:56] Frame 321 finished.
+[2026-06-14 07:15:56] Prompt sent (Frame 322). PID: 4a50389c-4a30-4506-884c-d43cb88a9da6
+[2026-06-14 07:18:47] Frame 322 finished.
+[2026-06-14 07:18:48] Prompt sent (Frame 323). PID: 6befe6ac-9a60-4447-9c24-0ad6dfcb1e5c
+[2026-06-14 07:21:41] Frame 323 finished.
+[2026-06-14 07:21:41] Prompt sent (Frame 324). PID: f715064f-0d28-48c7-820d-329efa7dddd4
+[2026-06-14 07:24:36] Frame 324 finished.
+[2026-06-14 07:24:37] Prompt sent (Frame 325). PID: e49790cf-c6d0-4f0f-8c1e-321d74325063
+[2026-06-14 07:27:30] Frame 325 finished.
+[2026-06-14 07:27:30] Prompt sent (Frame 326). PID: 8eff5383-e8e5-4ac8-bda2-054b1d8b0e0c
+[2026-06-14 07:30:24] Frame 326 finished.
+[2026-06-14 07:30:24] Prompt sent (Frame 327). PID: 1ae1887a-f43e-431e-8b57-78c96651b962
+[2026-06-14 07:33:29] Frame 327 finished.
+[2026-06-14 07:33:30] Prompt sent (Frame 328). PID: 7493009d-ed54-41d2-b60c-83cf269ab72c
+[2026-06-14 07:36:24] Frame 328 finished.
+[2026-06-14 07:36:24] Prompt sent (Frame 329). PID: f95fe1d4-3d05-4052-8296-8c9245f409d1
+[2026-06-14 07:39:17] Frame 329 finished.
+[2026-06-14 07:39:18] Prompt sent (Frame 330). PID: 0f70fe20-f133-49e2-82c1-38ab8348c5ee
+[2026-06-14 07:42:09] Frame 330 finished.
+[2026-06-14 07:42:09] Prompt sent (Frame 331). PID: e5e7c76c-22d0-43de-8f34-0f2f344a7618
+[2026-06-14 07:45:02] Frame 331 finished.
+[2026-06-14 07:45:02] Prompt sent (Frame 332). PID: d0c4395c-eab5-4312-b38c-d516499107dc
+[2026-06-14 07:47:53] Frame 332 finished.
+[2026-06-14 07:47:53] Prompt sent (Frame 333). PID: 2690ba98-cbb5-46cd-84c5-a45c3096b386
+[2026-06-14 07:50:43] Frame 333 finished.
+[2026-06-14 07:50:43] Prompt sent (Frame 334). PID: 925a3e13-212e-42f0-8d65-a6eae9fe6599
+[2026-06-14 07:53:33] Frame 334 finished.
+[2026-06-14 07:53:34] Prompt sent (Frame 335). PID: 9232e636-ee07-4361-b7fc-8e276d328bf1
+[2026-06-14 07:56:24] Frame 335 finished.
+[2026-06-14 07:56:24] Prompt sent (Frame 336). PID: f800a06d-a523-4e1d-8bc8-8a643e43c626
+[2026-06-14 07:59:16] Frame 336 finished.
+[2026-06-14 07:59:16] Prompt sent (Frame 337). PID: 71190ddb-fcf2-49dd-83bf-fe151740e1c4
+[2026-06-14 08:02:08] Frame 337 finished.
+[2026-06-14 08:02:09] Prompt sent (Frame 338). PID: e0f258f6-c7af-480e-b12d-ebc39c1ca396
+[2026-06-14 08:05:03] Frame 338 finished.
+[2026-06-14 08:05:03] Prompt sent (Frame 339). PID: 93320776-88ae-4357-8140-1516c01386d1
+[2026-06-14 08:07:55] Frame 339 finished.
+[2026-06-14 08:07:56] Prompt sent (Frame 340). PID: 7efa2955-0afa-4b9c-873f-1306da7185e1
+[2026-06-14 08:10:47] Frame 340 finished.
+[2026-06-14 08:10:47] Prompt sent (Frame 341). PID: a27b5247-c551-4232-89a4-b397398bcc99
+[2026-06-14 08:13:41] Frame 341 finished.
+[2026-06-14 08:13:41] Prompt sent (Frame 342). PID: 1327ddc1-7d46-4fba-a7f1-90c050edcc13
+[2026-06-14 08:16:35] Frame 342 finished.
+[2026-06-14 08:16:36] Prompt sent (Frame 343). PID: bf328a6e-f218-43cc-95cb-ee04b1c561ed
+[2026-06-14 08:19:25] Frame 343 finished.
+[2026-06-14 08:19:25] Prompt sent (Frame 344). PID: 107d833b-c89f-4aaa-afd2-b37d3c1ad6ae
+[2026-06-14 08:22:15] Frame 344 finished.
+[2026-06-14 08:22:16] Prompt sent (Frame 345). PID: a2d4f7af-7db1-412e-ab7b-5fb86dc33ee4
+[2026-06-14 08:25:06] Frame 345 finished.
+[2026-06-14 08:25:06] Prompt sent (Frame 346). PID: a07ed4ae-a146-42e0-b7f2-a23b426217f2
+[2026-06-14 08:28:00] Frame 346 finished.
+[2026-06-14 08:28:00] Keyframe 347 applied. Redirecting Visual Director baseline to: 'Hyper-detailed star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing. Semi-transparent serpentine creatures with iridescent bioluminescent scales swirl through cosmic dust and prismatic nebulae, glowing stars, planets, and debris. Cyberpunk-mythical art style, wide-angle lens, vivid textures, atmospheric glow, dense starfields, swirling nebulae, galaxy clusters, and luminous cosmic gas. Deep space photography, hyperrealistic, urn of purple and pink light emanating from the center, surrounded by blue and white swirls'
+[2026-06-14 08:28:00] Prompt sent (Frame 347). PID: d44719cf-66f6-43e9-9d8c-370d1379ca46
+[2026-06-14 08:30:49] Frame 347 finished.
+[2026-06-14 08:30:50] Prompt sent (Frame 348). PID: e2aa4763-7298-4562-88a0-9a16414bdb95
+[2026-06-14 08:32:31] Prompt enhanced by llama3.2:3b: 'Hyper-detailed star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing. Semi-transparent serpentine creatures with iridescent bioluminescent scales swirl through cosmic dust and prismatic nebulae, glowing stars, planets, and debris. Cyberpunk-mythical art style, wide-angle lens, vivid textures, atmospheric glow, dense starfields, swirling nebulae, galaxy clusters, and luminous cosmic gas. Deep space photography, hyperrealistic, urn of purple and pink light emanating from the center, surrounded by blue and white swirls' -> 'A hyper-detailed, cyberpunk-mythical star-gate radiates electric blue/cyan/magenta neon, fractal patterns pulsing through a wide-angle lens with 14mm depth of field, capturing swirling nebulae, galaxy clusters, and luminous cosmic gas. Semi-transparent serpentine creatures with iridescent bioluminescent scales float amidst dense starfields, surrounded by an urn of purple and pink light emitting from the center, illuminated by soft, ethereal glow'
+[2026-06-14 08:33:59] Frame 348 finished.
+[2026-06-14 08:33:59] Prompt sent (Frame 349). PID: e3a26ba1-7dc3-4325-b955-24f3d331e062
+[2026-06-14 08:36:50] Frame 349 finished.
+[2026-06-14 08:36:50] Prompt sent (Frame 350). PID: b7981e27-9aa2-4baa-a00a-337271e0ea58
+[2026-06-14 08:39:48] Frame 350 finished.
+[2026-06-14 08:39:48] Prompt sent (Frame 351). PID: 28e296f9-952e-4721-bac8-90d9602fd2da
+[2026-06-14 08:42:42] Frame 351 finished.
+[2026-06-14 08:42:42] Prompt sent (Frame 352). PID: f9fd57fd-5576-4f3f-96e3-63dc5f52efa7
+[2026-06-14 08:44:00] landscape.py
+[2026-06-14 08:44:00] Len Prompt: 31
+[2026-06-14 08:50:31] ENGINE STARTED: Entering render loop.
+[2026-06-14 08:50:31] Resume: Detected frame 351 on disk. Starting at 352
+[2026-06-14 08:50:31] Prompt sent (Frame 352). PID: 924d682b-4844-45b2-af67-aa31adf19a04. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 08:53:20] Frame 352 finished.
+[2026-06-14 08:53:21] Prompt sent (Frame 353). PID: ad28f537-9690-4aad-b958-4725a4bc6f2d. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 08:54:32] Uploaded logo: me200x300.png
+[2026-06-14 08:56:12] Frame 353 finished.
+[2026-06-14 08:56:12] Prompt sent (Frame 354). PID: 19a317c7-f292-401c-a5fa-5ad7fc6591e6. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 08:57:10] landscape.py
+[2026-06-14 08:57:10] Len Prompt: 31
+[2026-06-14 08:57:27] landscape.py
+[2026-06-14 08:57:27] Len Prompt: 31
+[2026-06-14 08:57:47] landscape.py
+[2026-06-14 08:57:47] Len Prompt: 31
+[2026-06-14 08:58:08] ENGINE STARTED: Entering render loop.
+[2026-06-14 08:58:08] Resume: Detected frame 353 on disk. Starting at 354
+[2026-06-14 08:58:08] Prompt sent (Frame 354). PID: ef5fbbb2-a894-4a3f-93aa-d711243470f1. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:02:22] landscape.py
+[2026-06-14 09:02:22] Len Prompt: 31
+[2026-06-14 09:03:16] landscape.py
+[2026-06-14 09:03:16] Len Prompt: 31
+[2026-06-14 09:03:38] Logo position saved: sleek_watermark_logo.png at (0, 0) 170x85 (Opacity: 1.0)
+[2026-06-14 09:06:02] landscape.py
+[2026-06-14 09:06:02] Len Prompt: 31
+[2026-06-14 09:06:48] Logo position saved: sleek_watermark_logo.png at (20, 20) 100x100 (Opacity: 1.0)
+[2026-06-14 09:07:10] Logo position saved: sleek_watermark_logo.png at (214, 373) 100x100 (Opacity: 1.0)
+[2026-06-14 09:07:16] Logo position saved: sleek_watermark_logo.png at (214, 373) 100x100 (Opacity: 1.0)
+[2026-06-14 09:07:20] Logo position saved: sleek_watermark_logo.png at (214, 373) 100x100 (Opacity: 1.0)
+[2026-06-14 09:07:29] ENGINE STARTED: Entering render loop.
+[2026-06-14 09:07:29] Resume: Detected frame 353 on disk. Starting at 354
+[2026-06-14 09:07:30] Prompt sent (Frame 354). PID: ddf31c38-ad3d-439a-9e07-61842c07ffc2. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:07:31] Frame 354 finished.
+[2026-06-14 09:07:31] Prompt sent (Frame 355). PID: a82d489c-c315-4d5e-8c6b-07cb22cdcac6. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:10:25] Frame 355 finished.
+[2026-06-14 09:10:25] Prompt sent (Frame 356). PID: bb25c31e-c971-4f47-93f7-429b52589bc4. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:10:40] Logo position saved: None at (214, 373) 100x100 (Opacity: 1.0)
+[2026-06-14 09:11:00] Logo position saved: me200x300.png at (20, 20) 100x150 (Opacity: 1.0)
+[2026-06-14 09:11:08] Logo position saved: me200x300.png at (20, 20) 93x135 (Opacity: 1.0)
+[2026-06-14 09:11:09] Logo position saved: me200x300.png at (20, 20) 66x97 (Opacity: 1.0)
+[2026-06-14 09:11:18] Logo position saved: me200x300.png at (24, 384) 66x97 (Opacity: 1.0)
+[2026-06-14 09:11:23] Logo position saved: me200x300.png at (24, 384) 66x97 (Opacity: 1.0)
+[2026-06-14 09:13:35] Frame 356 finished.
+[2026-06-14 09:13:35] Prompt sent (Frame 357). PID: a2313a54-f55f-4593-81f2-738ab54f52d0. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:14:17] Logo position saved: None at (24, 384) 66x97 (Opacity: 1.0)
+[2026-06-14 09:16:26] Frame 357 finished.
+[2026-06-14 09:16:27] Prompt sent (Frame 358). PID: 7d048df2-7842-4750-adc9-04af32b36080. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:19:05] Logo position saved: me200x300.png at (20, 20) 100x150 (Opacity: 1.0)
+[2026-06-14 09:19:23] Frame 358 finished.
+[2026-06-14 09:19:23] Prompt sent (Frame 359). PID: f402725e-3b4f-41a1-8608-aef6ab223553. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:22:16] Frame 359 finished.
+[2026-06-14 09:22:16] Prompt sent (Frame 360). PID: d1019741-1047-4ea2-9c93-b92372691ee4. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:24:26] landscape.py
+[2026-06-14 09:24:26] Len Prompt: 31
+[2026-06-14 09:25:26] Logo position saved: me200x300.png at (200, 257) 100x150 (Opacity: 1.0)
+[2026-06-14 09:25:39] ENGINE STARTED: Entering render loop.
+[2026-06-14 09:25:39] Resume: Detected frame 359 on disk. Starting at 360
+[2026-06-14 09:25:39] Prompt sent (Frame 360). PID: 2c4b4fd8-6f9c-46c6-add7-8aa140f2f0c5. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:25:54] Logo position saved: None at (200, 257) 100x150 (Opacity: 1.0)
+[2026-06-14 09:28:35] Frame 360 finished.
+[2026-06-14 09:28:36] Prompt sent (Frame 361). PID: 80b53493-a869-4d5e-80fe-1841a15845e2. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:31:37] Frame 361 finished.
+[2026-06-14 09:31:37] Prompt sent (Frame 362). PID: 80ce32f0-249d-419a-a8b4-696bb6ef083f. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:34:33] Frame 362 finished.
+[2026-06-14 09:34:33] Keyframe 363 applied. Redirecting Visual Director baseline to: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:34:33] Prompt sent (Frame 363). PID: ec0c03e0-e6a9-49b9-9f21-b67b4180a3dd. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:37:23] Frame 363 finished.
+[2026-06-14 09:37:23] Prompt sent (Frame 364). PID: aeb72659-5607-4496-805a-cc0cb24ea30e. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:40:16] Frame 364 finished.
+[2026-06-14 09:41:02] Prompt sent (Frame 365). PID: 0ccf0391-d02f-4c68-8722-28211b2a4e55. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:43:03] landscape.py
+[2026-06-14 09:43:03] Len Prompt: 31
+[2026-06-14 09:44:08] ENGINE STARTED: Entering render loop.
+[2026-06-14 09:44:08] Resume: Detected frame 364 on disk. Starting at 365
+[2026-06-14 09:44:08] Prompt sent (Frame 365). PID: 26b04296-c62f-4826-84d6-65d2a7d04e68. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:46:59] Frame 365 finished.
+[2026-06-14 09:47:00] Prompt sent (Frame 366). PID: d6d1dc26-64bd-484c-97b1-3e1305898df2. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:47:33] Logo position saved: sleek_watermark_logo.png at (210, 349) 100x100 (Opacity: 1.0)
+[2026-06-14 09:49:51] Frame 366 finished.
+[2026-06-14 09:49:51] Prompt sent (Frame 367). PID: 308e1989-d590-4562-8736-89aae073c634. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:49:58] Logo position saved: None at (210, 349) 100x100 (Opacity: 1.0)
+[2026-06-14 09:52:41] Frame 367 finished.
+[2026-06-14 09:52:42] Prompt sent (Frame 368). PID: 886201a8-2962-41b9-aad4-bd9b6a89867a. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:53:04] Logo position saved: None at (210, 349) 100x100 (Opacity: 1.0)
+[2026-06-14 09:55:38] Frame 368 finished.
+[2026-06-14 09:55:38] Prompt sent (Frame 369). PID: 32370a4b-50d3-43ac-b344-8b20490e28cd. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 09:57:12] landscape.py
+[2026-06-14 09:57:12] Len Prompt: 31
+[2026-06-14 09:58:02] ENGINE STARTED: Entering render loop.
+[2026-06-14 09:58:02] Resume: Detected frame 368 on disk. Starting at 369
+[2026-06-14 09:58:03] Prompt sent (Frame 369). PID: cdd18aad-7b71-4519-b412-1501e4a00db2. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:01:28] Frame 369 finished.
+[2026-06-14 10:01:28] Prompt sent (Frame 370). PID: a77463f1-2920-4dc7-999b-2bd22bbfc557. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:04:25] Frame 370 finished.
+[2026-06-14 10:04:26] Prompt sent (Frame 371). PID: 5295d76d-fd50-4408-892d-3f28e556f5bd. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:06:51] landscape.py
+[2026-06-14 10:06:51] Len Prompt: 31
+[2026-06-14 10:07:33] ENGINE STARTED: Entering render loop.
+[2026-06-14 10:07:33] Resume: Detected frame 370 on disk. Starting at 371
+[2026-06-14 10:07:33] Prompt sent (Frame 371). PID: b1beceab-8b1c-49c6-b3f8-35ecad4d83a9. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:08:02] Logo position saved: None at (0, 0) 100x100 (Opacity: 1.0)
+[2026-06-14 10:08:39] Logo position saved: None at (0, 0) 100x100 (Opacity: 1.0)
+[2026-06-14 10:10:31] Frame 371 finished.
+[2026-06-14 10:10:31] Prompt sent (Frame 372). PID: 16e5fff2-a14c-48f5-a9a6-f18f9c8d3f87. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:10:57] landscape.py
+[2026-06-14 10:10:57] Len Prompt: 31
+[2026-06-14 10:11:46] ENGINE STARTED: Entering render loop.
+[2026-06-14 10:11:46] Resume: Detected frame 371 on disk. Starting at 372
+[2026-06-14 10:11:46] Prompt sent (Frame 372). PID: 25f12b23-b804-47ed-91b3-a68162107be9. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:12:04] Logo position saved: None at (0, 0) 100x100 (Opacity: 1.0)
+[2026-06-14 10:12:04] Re-applied logo watermark to latest frame: frame_371.png
+[2026-06-14 10:15:48] landscape.py
+[2026-06-14 10:15:48] Len Prompt: 31
+[2026-06-14 10:16:58] Logo position saved: None at (0, 0) 100x100 (Opacity: 1.0)
+[2026-06-14 10:16:58] Re-applied logo watermark to latest frame: frame_371.png
+[2026-06-14 10:17:30] ENGINE STARTED: Entering render loop.
+[2026-06-14 10:17:30] Resume: Detected frame 371 on disk. Starting at 372
+[2026-06-14 10:17:31] Prompt sent (Frame 372). PID: d241cabb-95ae-4516-8c02-2e0d4b2e1759. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:17:32] Frame 372 finished.
+[2026-06-14 10:17:32] Prompt sent (Frame 373). PID: 4f08fafa-64be-42cb-b62c-4c7abe88e5c3. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:18:52] Logo position saved: sleek_watermark_logo.png at (219, 36) 100x100 (Opacity: 1.0)
+[2026-06-14 10:18:52] Re-applied logo watermark to latest frame: frame_372.png
+[2026-06-14 10:18:58] Logo position saved: None at (219, 36) 100x100 (Opacity: 1.0)
+[2026-06-14 10:18:58] Re-applied logo watermark to latest frame: frame_372.png
+[2026-06-14 10:20:31] Frame 373 finished.
+[2026-06-14 10:20:32] Prompt sent (Frame 374). PID: 7413d55c-0994-4032-9603-d5ebce8b78cd. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:20:52] Logo position saved: me200x300.png at (148, 85) 100x150 (Opacity: 0.45)
+[2026-06-14 10:20:52] Re-applied logo watermark to latest frame: frame_373.png
+[2026-06-14 10:23:25] Frame 374 finished.
+[2026-06-14 10:23:25] Prompt sent (Frame 375). PID: e9e96259-8fc2-43a7-95bd-338dfae833ac. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:26:33] Frame 375 finished.
+[2026-06-14 10:26:34] Prompt sent (Frame 376). PID: 94436341-b040-437b-bde2-b2e4a8b5cbf0. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:29:02] landscape.py
+[2026-06-14 10:29:02] Len Prompt: 31
+[2026-06-14 10:29:02] Resume: Detected frame 375 on disk. Starting at 376
+[2026-06-14 10:29:51] Logo position saved: None at (148, 85) 100x150 (Opacity: 0.45)
+[2026-06-14 10:29:51] Re-applied logo watermark to latest frame: frame_375.png
+[2026-06-14 10:30:30] Logo position saved: me200x300.png at (146, 80) 100x150 (Opacity: 0.5)
+[2026-06-14 10:30:30] Re-applied logo watermark to latest frame: frame_375.png
+[2026-06-14 10:30:54] Logo position saved: sleek_watermark_logo.png at (15, 199) 100x100 (Opacity: 1.0)
+[2026-06-14 10:30:54] Re-applied logo watermark to latest frame: frame_375.png
+[2026-06-14 10:31:56] ENGINE STARTED: Entering render loop.
+[2026-06-14 10:31:56] Resume: Detected frame 375 on disk. Starting at 376
+[2026-06-14 10:31:56] Prompt sent (Frame 376). PID: 108bed4a-f9b8-489d-851c-8de45daa2e5c. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:32:28] Logo position saved: me200x300.png at (144, 82) 100x150 (Opacity: 1.0)
+[2026-06-14 10:32:28] Re-applied logo watermark to latest frame: frame_375.png
+[2026-06-14 10:34:47] Frame 376 finished.
+[2026-06-14 10:34:47] Prompt sent (Frame 377). PID: 6c6c8200-f26c-4c56-bde0-431fd3f21b77. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:37:40] Frame 377 finished.
+[2026-06-14 10:37:41] Prompt sent (Frame 378). PID: c4d3c276-f1d7-460a-b0ca-af95f171495b. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:38:04] Logo position saved: None at (144, 82) 100x150 (Opacity: 1.0)
+[2026-06-14 10:38:04] Re-applied logo watermark to latest frame: frame_377.png
+[2026-06-14 10:40:34] Frame 378 finished.
+[2026-06-14 10:40:34] Prompt sent (Frame 379). PID: f0e798d9-1eed-420d-baa2-e7d770724f4b. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:43:28] Frame 379 finished.
+[2026-06-14 10:43:29] Prompt sent (Frame 380). PID: 7de66073-b89e-4958-9410-5fc71d7f3a2d. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:46:39] Frame 380 finished.
+[2026-06-14 10:46:40] Prompt sent (Frame 381). PID: cab118fd-e1a1-4b0b-b590-5afc3a511d2c. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:49:38] landscape.py
+[2026-06-14 10:49:38] Len Prompt: 31
+[2026-06-14 10:49:38] Resume: Detected frame 380 on disk. Starting at 381
+[2026-06-14 10:50:17] ENGINE STARTED: Entering render loop.
+[2026-06-14 10:50:17] Resume: Detected frame 380 on disk. Starting at 381
+[2026-06-14 10:50:17] Prompt sent (Frame 381). PID: 40029fd6-5e9e-4654-9d16-c8db62e25c69. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:50:41] Logo position saved: sleek_watermark_logo.png at (24, 245) 100x100 (Opacity: 1.0)
+[2026-06-14 10:52:00] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:02] Logo position saved: sleek_watermark_logo.png at (145, 96) 100x100 (Opacity: 1.0)
+[2026-06-14 10:52:09] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:17] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:19] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:23] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:25] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:26] Logo position saved: sleek_watermark_logo.png at (27, 257) 100x100 (Opacity: 1.0)
+[2026-06-14 10:52:42] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:47] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:52:51] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:53:00] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:53:10] Saved logo locally on frame: frame_380.png
+[2026-06-14 10:53:17] Frame 381 finished.
+[2026-06-14 10:53:17] Prompt sent (Frame 382). PID: d542cc24-6611-4a04-9b34-6e9dd9bf6b0b. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:57:05] Frame 382 finished.
+[2026-06-14 10:57:06] Prompt sent (Frame 383). PID: 0af344f0-f16d-466a-b1e4-b03acdbf23c9. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 10:57:31] Logo position saved: None at (27, 257) 100x100 (Opacity: 1.0)
+[2026-06-14 10:58:44] Saved logo locally on frame: frame_382.png
+[2026-06-14 10:58:47] Saved logo locally on frame: frame_382.png
+[2026-06-14 10:58:49] Saved logo locally on frame: frame_382.png
+[2026-06-14 10:58:55] Saved logo locally on frame: frame_382.png
+[2026-06-14 11:01:34] Frame 383 finished.
+[2026-06-14 11:01:35] Prompt sent (Frame 384). PID: 992a7671-bf4c-44ba-a037-25f2fc414275. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 11:04:56] Frame 384 finished.
+[2026-06-14 11:04:56] Prompt sent (Frame 385). PID: 92c3479d-38da-4fd2-8988-e67e61373582. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 11:05:55] Logo position saved: me200x300.png at (20, 20) 100x150 (Opacity: 0.5)
+[2026-06-14 11:08:34] Frame 385 finished.
+[2026-06-14 11:08:34] Prompt sent (Frame 386). PID: f2f9e78a-34c3-4916-8db1-b3dafa715ce3. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 11:12:20] Frame 386 finished.
+[2026-06-14 11:12:21] Prompt sent (Frame 387). PID: 4378cade-5f19-40da-982a-e29da0117662. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 11:15:28] Frame 387 finished.
+[2026-06-14 11:15:28] Prompt sent (Frame 388). PID: 469bd2c3-f007-4df0-a5bf-657b36ac2900. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures similar to mythical sea monsters, swimming in space, surrounded with stars, planets, nebula, dust and space debris>'
+[2026-06-14 11:17:38] ENGINE STARTED: Entering render loop.
+[2026-06-14 11:17:38] Resume: Detected frame 387 on disk. Starting at 388
+[2026-06-14 11:17:38] Prompt sent (Frame 388). PID: ad1b8106-e3b5-4e05-9307-3b12503cb208. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:19:02] Logo position saved: sleek_watermark_logo.png at (20, 20) 100x100
+[2026-06-14 11:19:16] Logo position saved: sleek_watermark_logo.png at (152, 59) 100x100
+[2026-06-14 11:21:34] Frame 388 finished.
+[2026-06-14 11:21:35] Prompt sent (Frame 389). PID: e4ca661c-68dc-4dfc-ac85-c77420adc05f. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:21:53] Logo position saved: None at (152, 59) 100x100
+[2026-06-14 11:22:54] landscape.py
+[2026-06-14 11:22:54] Len Prompt: 31
+[2026-06-14 11:22:54] Resume: Detected frame 388 on disk. Starting at 389
+[2026-06-14 11:23:36] landscape.py
+[2026-06-14 11:23:36] Len Prompt: 31
+[2026-06-14 11:23:36] Resume: Detected frame 388 on disk. Starting at 389
+[2026-06-14 11:24:44] Saved logo locally on frame: frame_388.png
+[2026-06-14 11:25:34] Logo position saved: None at (152, 59) 100x100 (Opacity: 1.0)
+[2026-06-14 11:25:44] Saved logo locally on frame: frame_388.png
+[2026-06-14 11:25:49] Saved logo locally on frame: frame_388.png
+[2026-06-14 11:25:53] Logo position saved: None at (152, 59) 100x100 (Opacity: 1.0)
+[2026-06-14 11:26:32] ENGINE STARTED: Entering render loop.
+[2026-06-14 11:26:33] Resume: Detected frame 388 on disk. Starting at 389
+[2026-06-14 11:26:33] Prompt sent (Frame 389). PID: 2b135952-6643-4b4f-b5cc-b302c8be2048. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:29:23] Frame 389 finished.
+[2026-06-14 11:29:23] Prompt sent (Frame 390). PID: 130d7e0b-4981-4920-bf3f-8f52c1d55325. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:29:56] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:30:00] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:30:07] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:30:13] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:30:28] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:30:35] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:30:39] Saved logo locally on frame: frame_389.png
+[2026-06-14 11:32:24] Frame 390 finished.
+[2026-06-14 11:32:25] Prompt sent (Frame 391). PID: 89025132-b2ee-43ea-9346-9c26bf256802. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:33:14] Saved logo locally on frame: frame_390.png
+[2026-06-14 11:33:19] Saved logo locally on frame: frame_390.png
+[2026-06-14 11:33:22] Saved logo locally on frame: frame_390.png
+[2026-06-14 11:33:28] Saved logo locally on frame: frame_390.png
+[2026-06-14 11:33:34] Logo position saved: me200x300.png at (154, 37) 106x159 (Opacity: 1.0)
+[2026-06-14 11:35:19] Frame 391 finished.
+[2026-06-14 11:35:20] Prompt sent (Frame 392). PID: 297af648-20e4-44aa-bbcd-707711813ce9. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:35:38] Logo position saved: None at (154, 37) 106x159 (Opacity: 1.0)
+[2026-06-14 11:38:08] Frame 392 finished.
+[2026-06-14 11:38:08] Prompt sent (Frame 393). PID: de4e8008-a25b-44a0-b195-aed410356841. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:38:57] Saved logo locally on frame: frame_392.png
+[2026-06-14 11:39:05] Saved logo locally on frame: frame_392.png
+[2026-06-14 11:39:07] Saved logo locally on frame: frame_392.png
+[2026-06-14 11:39:11] Saved logo locally on frame: frame_392.png
+[2026-06-14 11:39:28] Logo position saved: me200x300.png at (173, 68) 69x104 (Opacity: 1.0)
+[2026-06-14 11:40:58] Frame 393 finished.
+[2026-06-14 11:40:59] Prompt sent (Frame 394). PID: d93db7e7-432d-46bc-b081-0c933d09522b. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:41:13] Saved logo locally on frame: frame_393.png
+[2026-06-14 11:41:17] Saved logo locally on frame: frame_393.png
+[2026-06-14 11:41:22] Logo position saved: me200x300.png at (167, 319) 69x104 (Opacity: 1.0)
+[2026-06-14 11:43:50] Frame 394 finished.
+[2026-06-14 11:43:51] Prompt sent (Frame 395). PID: 51724af6-8591-4a51-9763-75900f9b6558. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:44:19] Logo position saved: None at (167, 319) 69x104 (Opacity: 1.0)
+[2026-06-14 11:44:48] Saved logo locally on frame: frame_394.png
+[2026-06-14 11:44:54] Saved logo locally on frame: frame_394.png
+[2026-06-14 11:45:06] Saved logo locally on frame: frame_394.png
+[2026-06-14 11:45:13] Saved logo locally on frame: frame_394.png
+[2026-06-14 11:45:28] Logo position saved: sleek_watermark_logo.png at (113, 29) 183x183 (Opacity: 1.0)
+[2026-06-14 11:46:43] Frame 395 finished.
+[2026-06-14 11:46:43] Prompt sent (Frame 396). PID: 42ec28f8-2c2e-4735-9211-a4c4a3264a2d. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:47:11] Saved logo locally on frame: frame_395.png
+[2026-06-14 11:47:17] Saved logo locally on frame: frame_395.png
+[2026-06-14 11:47:30] Saved logo locally on frame: frame_395.png
+[2026-06-14 11:47:35] Saved logo locally on frame: frame_395.png
+[2026-06-14 11:47:56] Saved logo locally on frame: frame_395.png
+[2026-06-14 11:48:02] Logo position saved: sleek_watermark_logo.png at (0, 263) 137x137 (Opacity: 1.0)
+[2026-06-14 11:49:37] Frame 396 finished.
+[2026-06-14 11:49:37] Prompt sent (Frame 397). PID: c7273ced-c882-4764-a2a1-f6c6fd370ded. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:50:03] Logo position saved: None at (0, 263) 137x137 (Opacity: 1.0)
+[2026-06-14 11:50:21] Uploaded logo: no.png
+[2026-06-14 11:50:40] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:50:43] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:50:45] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:50:50] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:50:55] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:50:56] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:51:01] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:51:10] Logo position saved: no.png at (20, 311) 83x75 (Opacity: 1.0)
+[2026-06-14 11:51:31] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:51:34] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:51:37] Saved logo locally on frame: frame_396.png
+[2026-06-14 11:51:49] Logo position saved: no.png at (25, 318) 83x75 (Opacity: 1.0)
+[2026-06-14 11:52:31] Frame 397 finished.
+[2026-06-14 11:52:32] Prompt sent (Frame 398). PID: ebec6527-0b0b-437b-9451-bb49435371f7. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:55:22] Frame 398 finished.
+[2026-06-14 11:55:22] Prompt sent (Frame 399). PID: 86daa9fa-f9b1-4265-953e-d6c3c8c77654. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:55:31] Logo position saved: None at (25, 318) 83x75 (Opacity: 1.0)
+[2026-06-14 11:56:35] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:52] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:56] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:56] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:57] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:57] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:57] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:57] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:58] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:56:58] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:02] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:05] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:05] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:05] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:06] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:06] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:06] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:06] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:07] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:09] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:10] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:10] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:14] Saved logo locally on frame: frame_398.png
+[2026-06-14 11:57:15] Logo position saved: sleek_watermark_logo.png at (7, 315) 109x109 (Opacity: 1.0)
+[2026-06-14 11:58:17] Frame 399 finished.
+[2026-06-14 11:58:17] Prompt sent (Frame 400). PID: 0bcc0092-ce82-4be0-9fb3-713437142640. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 11:59:10] Saved logo locally on frame: frame_399.png
+[2026-06-14 11:59:15] Saved logo locally on frame: frame_399.png
+[2026-06-14 11:59:28] Saved logo locally on frame: frame_399.png
+[2026-06-14 12:01:08] Frame 400 finished.
+[2026-06-14 12:01:09] Prompt sent (Frame 401). PID: 7862e799-a3bb-407f-a7a8-6f1a8623ec8d. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 12:01:31] Logo position saved: None at (7, 315) 109x109 (Opacity: 1.0)
+[2026-06-14 12:04:00] Frame 401 finished.
+[2026-06-14 12:04:01] Prompt sent (Frame 402). PID: 6ce867ba-d9e0-435a-82d8-fc9049b66f43. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 12:06:51] Frame 402 finished.
+[2026-06-14 12:06:51] Prompt sent (Frame 403). PID: f2611b05-9b66-41a3-a9bd-0006b12a6d62. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 12:09:44] Frame 403 finished.
+[2026-06-14 12:09:45] Prompt sent (Frame 404). PID: 8be277b1-c8a6-4009-ba7d-3b7f79b8ee1c. Prompt: 'Highly detailed Centered Science fiction image of a star-gate with semi transparent space creatures swimming in space similar to mythical sea monsters, surrounded with space, stars, planets, nebula, dust and space debris <lora:more_details:.8>'
+[2026-06-14 12:12:34] Frame 404 finished.
+[2026-06-14 12:12:34] Keyframe 405 applied. Redirecting Visual Director baseline to: 'gorgeous Long haired Latina model at the beach'
+[2026-06-14 12:12:34] Prompt sent (Frame 405). PID: 81ee8bef-4246-4e1a-ba93-95d3e8c02faf. Prompt: 'gorgeous Long haired Latina model at the beach'
+[2026-06-14 12:15:24] Frame 405 finished.
+[2026-06-14 12:15:25] Prompt sent (Frame 406). PID: ac652e67-7614-438e-858c-d6d558f02cd5. Prompt: 'gorgeous Long haired Latina model at the beach'
+[2026-06-14 12:18:16] Frame 406 finished.
+[2026-06-14 12:18:17] Prompt sent (Frame 407). PID: 2dcc94fa-2f2c-4ba7-b5e3-cd4ac2bb5aa6. Prompt: 'gorgeous Long haired Latina model at the beach'
+[2026-06-14 12:19:29] Saved logo locally on frame: frame_406.png
+[2026-06-14 12:19:36] Saved logo locally on frame: frame_406.png
+[2026-06-14 12:19:40] Saved logo locally on frame: frame_406.png
+[2026-06-14 12:19:44] Saved logo locally on frame: frame_406.png
+[2026-06-14 12:19:47] Saved logo locally on frame: frame_406.png
+[2026-06-14 12:19:56] Logo position saved: sleek_watermark_logo.png at (48, 194) 238x238 (Opacity: 1.0)
+[2026-06-14 12:21:09] Frame 407 finished.
+[2026-06-14 12:21:09] Prompt sent (Frame 408). PID: dd103eea-82a2-459d-bc7b-a245c976d026. Prompt: 'gorgeous Long haired Latina model at the beach'
+[2026-06-14 12:21:57] Logo position saved: None at (48, 194) 238x238 (Opacity: 1.0)
+[2026-06-14 12:24:02] Frame 408 finished.
+[2026-06-14 12:24:03] Prompt sent (Frame 409). PID: 91f2b4cb-c8f2-49a1-83fe-7d58ca3a5b91. Prompt: '(gorgeous Long haired Latina model at the beach:0.20), (gorgeous Long haired Latina model dancing in a club:0.80)'
+[2026-06-14 12:27:14] Frame 409 finished.
+[2026-06-14 12:27:15] Keyframe 410 applied. Redirecting Visual Director baseline to: 'gorgeous Long haired Latina model dancing in a club'
+[2026-06-14 12:27:15] Prompt sent (Frame 410). PID: 95d82928-336e-4dc5-a295-16965b6876cf. Prompt: 'gorgeous Long haired Latina model dancing in a club'
+[2026-06-14 12:30:10] Frame 410 finished.
+[2026-06-14 12:30:10] Prompt sent (Frame 411). PID: 61960e85-6d69-416d-ad61-66ff294568a8. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.90), (gorgeous Long haired Latina model drinking in a club:0.10)'
+[2026-06-14 12:33:15] Frame 411 finished.
+[2026-06-14 12:33:16] Prompt sent (Frame 412). PID: 24aee010-f625-4717-9baa-b7db608cc534. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.80), (gorgeous Long haired Latina model drinking in a club:0.20)'
+[2026-06-14 12:36:33] Frame 412 finished.
+[2026-06-14 12:36:34] Prompt sent (Frame 413). PID: 3f7e3766-d9fa-4cba-8159-ff37a47eec6d. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.70), (gorgeous Long haired Latina model drinking in a club:0.30)'
+[2026-06-14 12:39:51] Frame 413 finished.
+[2026-06-14 12:39:52] Prompt sent (Frame 414). PID: e1312a7b-cd12-4821-897b-6b356de8805b. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.60), (gorgeous Long haired Latina model drinking in a club:0.40)'
+[2026-06-14 12:43:08] Frame 414 finished.
+[2026-06-14 12:43:09] Prompt sent (Frame 415). PID: 655b5d62-b320-4832-90cf-b688b821ad05. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.50), (gorgeous Long haired Latina model drinking in a club:0.50)'
+[2026-06-14 12:46:24] Frame 415 finished.
+[2026-06-14 12:46:25] Prompt sent (Frame 416). PID: 1f400631-92cc-4ff1-aa4c-d5a0cc21efc3. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.40), (gorgeous Long haired Latina model drinking in a club:0.60)'
+[2026-06-14 12:49:41] Frame 416 finished.
+[2026-06-14 12:49:41] Prompt sent (Frame 417). PID: 65cb72be-848f-45e0-83ce-6ac907a787ce. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.30), (gorgeous Long haired Latina model drinking in a club:0.70)'
+[2026-06-14 12:52:58] Frame 417 finished.
+[2026-06-14 12:52:59] Prompt sent (Frame 418). PID: ed19aa9d-f1d5-409c-8099-73c0d8f215ab. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.20), (gorgeous Long haired Latina model drinking in a club:0.80)'
+[2026-06-14 12:56:15] Frame 418 finished.
+[2026-06-14 12:56:16] Prompt sent (Frame 419). PID: 11c65e7b-31cb-4f7d-beec-4391931ca754. Prompt: '(gorgeous Long haired Latina model dancing in a club:0.10), (gorgeous Long haired Latina model drinking in a club:0.90)'
+[2026-06-14 12:59:32] Frame 419 finished.
+[2026-06-14 12:59:32] Keyframe 420 applied. Redirecting Visual Director baseline to: 'gorgeous Long haired Latina model drinking in a club'
+[2026-06-14 12:59:32] Prompt sent (Frame 420). PID: 018f19b0-361a-4a09-b98b-5a1461ca611d. Prompt: 'gorgeous Long haired Latina model drinking in a club'
+[2026-06-14 13:02:50] Frame 420 finished.
+[2026-06-14 13:02:50] Prompt sent (Frame 421). PID: a3aded64-ad46-4e6e-aa46-aef3eb745d99. Prompt: 'gorgeous Long haired Latina model drinking in a club'
+[2026-06-14 13:06:08] Frame 421 finished.
+[2026-06-14 13:06:09] Prompt sent (Frame 422). PID: 84e1d759-5e7c-4b7b-9d89-e6fd529c9cf1. Prompt: 'gorgeous Long haired Latina model drinking in a club'
+[2026-06-14 13:09:28] Frame 422 finished.
+[2026-06-14 13:09:29] Prompt sent (Frame 423). PID: c2b43d03-d888-4853-982b-6a682befd4d1. Prompt: '(gorgeous Long haired Latina model drinking in a club:0.40), (gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.60)'
+[2026-06-14 13:13:55] Frame 423 finished.
+[2026-06-14 13:13:56] Prompt sent (Frame 424). PID: b3bffa8a-5252-46c7-bb54-9de1c5e32482. Prompt: '(gorgeous Long haired Latina model drinking in a club:0.20), (gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.80)'
+[2026-06-14 13:16:57] Frame 424 finished.
+[2026-06-14 13:16:57] Keyframe 425 applied. Redirecting Visual Director baseline to: 'gorgeous Long haired Latina model is sitting at a bar talking to the bartender'
+[2026-06-14 13:16:57] Prompt sent (Frame 425). PID: 2c2d5f57-3b6d-447c-b470-7ed15b97d0bd. Prompt: 'gorgeous Long haired Latina model is sitting at a bar talking to the bartender'
+[2026-06-14 13:20:01] Frame 425 finished.
+[2026-06-14 13:20:01] Prompt sent (Frame 426). PID: 49a9f619-dc44-4d1b-8473-227f379d8b30. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.90), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.10)'
+[2026-06-14 13:23:02] Frame 426 finished.
+[2026-06-14 13:23:03] Prompt sent (Frame 427). PID: 41ad7391-561f-4adf-83c0-a2ed2ff3e813. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.80), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.20)'
+[2026-06-14 13:26:13] Frame 427 finished.
+[2026-06-14 13:26:13] Prompt sent (Frame 428). PID: b096782c-6e06-4173-b6da-418d4297f86c. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.70), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.30)'
+[2026-06-14 13:29:49] Frame 428 finished.
+[2026-06-14 13:29:49] Prompt sent (Frame 429). PID: 0d305de7-2c24-48ac-ba5a-6e42c40d9b5a. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.60), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.40)'
+[2026-06-14 13:33:02] Frame 429 finished.
+[2026-06-14 13:33:03] Prompt sent (Frame 430). PID: fbbd6eb0-7fc0-4c43-9fa1-45d788b0000d. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.50), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.50)'
+[2026-06-14 13:36:03] Frame 430 finished.
+[2026-06-14 13:36:04] Prompt sent (Frame 431). PID: 502ab53f-0546-4d35-98cf-1caa7d00f39a. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.40), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.60)'
+[2026-06-14 13:39:11] Frame 431 finished.
+[2026-06-14 13:39:11] Prompt sent (Frame 432). PID: 69f8e779-f94a-4bb2-9a16-3eb209608481. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.30), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.70)'
+[2026-06-14 13:42:22] Frame 432 finished.
+[2026-06-14 13:42:23] Prompt sent (Frame 433). PID: 125bf0cb-92be-457c-a40c-2b9dc2206881. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.20), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.80)'
+[2026-06-14 13:45:30] Frame 433 finished.
+[2026-06-14 13:45:30] Prompt sent (Frame 434). PID: 9358ed4e-46c6-4161-9d3e-46719889273c. Prompt: '(gorgeous Long haired Latina model is sitting at a bar talking to the bartender:0.10), (gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink:0.90)'
+[2026-06-14 13:48:49] Frame 434 finished.
+[2026-06-14 13:48:49] Keyframe 435 applied. Redirecting Visual Director baseline to: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 13:48:49] Prompt sent (Frame 435). PID: d9d09712-fe24-4089-93eb-9784e6e0d02c. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 13:51:57] Frame 435 finished.
+[2026-06-14 13:51:57] Prompt sent (Frame 436). PID: ae35cd08-85f3-47fc-968d-3777c34a8210. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 13:55:00] Frame 436 finished.
+[2026-06-14 13:55:00] Prompt sent (Frame 437). PID: 299ca7d4-3fb6-431c-865b-fd1ec3f40e56. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 13:58:04] Frame 437 finished.
+[2026-06-14 13:58:05] Prompt sent (Frame 438). PID: 75dbe9c5-2f0f-4cfb-8d18-0dfdc933e2b6. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 14:01:17] Frame 438 finished.
+[2026-06-14 14:01:26] Prompt sent (Frame 439). PID: c7107e01-e957-4ef3-b516-a5c9fcb2c080. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 14:20:09] Frame 439 finished.
+[2026-06-14 14:20:48] Prompt sent (Frame 440). PID: c296421b-955a-449d-93be-10c983505f75. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 14:27:46] Frame 440 finished.
+[2026-06-14 14:27:47] Prompt sent (Frame 441). PID: 782e564f-5b3a-40de-9d30-531f5a6dae27. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 14:35:29] Frame 441 finished.
+[2026-06-14 14:35:31] Prompt sent (Frame 442). PID: ab6d7071-70da-493a-8da7-b6839f093462. Prompt: 'gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink'
+[2026-06-14 15:35:35] Timeout/No image for frame 442
+[2026-06-15 10:19:54] landscape.py
+[2026-06-15 10:19:54] Len Prompt: 31
+[2026-06-15 10:19:56] Resume: Detected frame 441 on disk. Starting at 442
+[2026-06-15 10:28:00] Prompt enhanced by qwen3:8b: 'Dense Bosch-style surreal nightmare painting, horror vacui composition, hundreds of intertwined grotesque creatures, skulls, tentacles, hybrid monsters, medieval minstrel with lute, fish with human faces, crowned beast, candlelight chiaroscuro, muted earth tones, aged oil painting texture, Northern Renaissance dark fantasy, highly detailed, chaotic symbolic tableau' -> 'Dense Bosch-style surreal nightmare with horror vacui chaos: grotesque creatures, skulls, tentacles, hybrid monsters, medieval minstrel, fish-faced beings, crowned beast. Candlelight chiaroscuro, muted earth tones, aged oil texture. Northern Renaissance dark fantasy, hyper-detailed, vintage lens capture, vivid organic-metallic textures'
+[2026-06-15 10:31:02] Prompt enhanced by llama3.2:3b: 'Dense Bosch-style surreal nightmare with horror vacui chaos: grotesque creatures, skulls, tentacles, hybrid monsters, medieval minstrel, fish-faced beings, crowned beast. Candlelight chiaroscuro, muted earth tones, aged oil texture. Northern Renaissance dark fantasy, hyper-detailed, vintage lens capture, vivid organic-metallic textures' -> 'A dense, dimly lit tapestry of twisted Bosch-style surreal nightmares: a medieval minstrel plays amidst a maelstrom of grotesque creatures, skulls, and hybrid monsters; fish-faced beings writhe on candle-lit altars; amidst the chaos, a crowned beast rises from the shadows, its organic-metallic hide glistening in soft, warm candlelight; aged oil texture, vintage 19th-century lens distortion'
+[2026-06-15 10:32:00] ENGINE STARTED: Entering render loop.
+[2026-06-15 10:32:00] Resume: Detected frame 441 on disk. Starting at 442
+[2026-06-15 10:32:12] Prompt sent (Frame 442). PID: 384c2a36-7fc0-4421-bf70-af9f6684f407. Prompt: 'A dense, dimly lit tapestry of twisted Bosch-style surreal nightmares: a medieval minstrel plays amidst a maelstrom of grotesque creatures, skulls, and hybrid monsters; fish-faced beings writhe on candle-lit altars; amidst the chaos, a crowned beast rises from the shadows, its organic-metallic hide glistening in soft, warm candlelight; aged oil texture, vintage 19th-century lens distortion'

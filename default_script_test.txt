@@ -1,0 +1,15 @@
+
+
+frame 100: Stepping into a flooded basement room with cold, stagnant water and scattered debris.
+frame 125: A scarry ghostly semitransparent image walking down the hall. A heavy metal door labeled "EXIT" in red is locked shut.
+frame 150: looking down a winding concrete staircase leading down into a basenment in absolute darkness.
+frame 165: A yellow-walled, carpeted corridor with flickering fluorescent lights. Eerie and silent.
+frame 200: An abandoned office space with rotting cubicles, shattered monitors, and thick dust.
+frame 250: Climbing a winding concrete staircase leading up into absolute darkness.
+frame 275: Fluorescent lights overhead begin to flicker wildly, casting erratic shadows.
+frame 300: a view looking the door of a desolate warehouse room, inside is a bright red exit sign glowing in a massive
+frame 350: A ghostly humanoid image is standing before a bright red exit sign glowing in a massive, desolate warehouse room.
+frame 375: There is an abandoned office trash and debris on the floor, office equipment scattered like junk in the room.
+frame 400: A maintenance shop room filled with tools and cleaning supplies.
+frame 450: A cleaning lady almost looking like a zombie in appearance, scrubbing a floor filled with trash and debris.
+frame 500: A door to outside the building, but it is blocked by a ghostly apparition with a stick, very scary looking apparition. 

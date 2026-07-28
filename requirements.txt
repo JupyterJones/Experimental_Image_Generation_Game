@@ -1,0 +1,8 @@
+Flask
+requests
+Pillow
+numpy
+moviepy
+pydub
+icecream
+werkzeug

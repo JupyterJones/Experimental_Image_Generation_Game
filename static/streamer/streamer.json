@@ -1,0 +1,88 @@
+{
+  "current_frame": 442,
+  "frames_total": 500,
+  "seed": 123456,
+  "prompt": "A dense, dimly lit tapestry of twisted Bosch-style surreal nightmares: a medieval minstrel plays amidst a maelstrom of grotesque creatures, skulls, and hybrid monsters; fish-faced beings writhe on candle-lit altars; amidst the chaos, a crowned beast rises from the shadows, its organic-metallic hide glistening in soft, warm candlelight; aged oil texture, vintage 19th-century lens distortion",
+  "original_starting_prompt": "A dense, dimly lit tapestry of twisted Bosch-style surreal nightmares: a medieval minstrel plays amidst a maelstrom of grotesque creatures, skulls, and hybrid monsters; fish-faced beings writhe on candle-lit altars; amidst the chaos, a crowned beast rises from the shadows, its organic-metallic hide glistening in soft, warm candlelight; aged oil texture, vintage 19th-century lens distortion",
+  "negative_prompt": "low quality, blurry, bare breasts, nipples, large breasts, NSFW, deformed fingers",
+  "model": "aiREalistic_aIllust.safetensors",
+  "lora1": "None",
+  "lora2": "None",
+  "lora3": "None",
+  "denoise": 0.3,
+  "keyframes": {
+    "405": {
+      "prompt": "gorgeous Long haired Latina model at the beach",
+      "denoise": 0.85,
+      "seed_offset": 13
+    },
+    "410": {
+      "prompt": "gorgeous Long haired Latina model dancing in a club",
+      "denoise": 0.5,
+      "seed_offset": 11
+    },
+    "420": {
+      "prompt": "gorgeous Long haired Latina model drinking in a club",
+      "denoise": 0.5,
+      "seed_offset": 16
+    },
+    "425": {
+      "prompt": "gorgeous Long haired Latina model is sitting at a bar talking to the bartender",
+      "denoise": 0.5,
+      "seed_offset": 5
+    },
+    "435": {
+      "prompt": "gorgeous Long haired Latina model sitting in a bar and a redheaded girl joins her for a drink",
+      "denoise": 0.5,
+      "seed_offset": -4
+    },
+    "444": {
+      "prompt": "A dense, dimly lit tapestry of twisted Bosch-style surreal nightmares: a medieval minstrel plays amidst a maelstrom of grotesque creatures, skulls, and hybrid monsters; fish-faced beings writhe on candle-lit altars; amidst the chaos, a crowned beast rises from the shadows, its organic-metallic hide glistening in soft, warm candlelight; aged oil texture, vintage 19th-century lens distortion",
+      "denoise": 0.9,
+      "seed_offset": 0
+    }
+  },
+  "injection_lines": [],
+  "use_motion_zoom": true,
+  "use_metadata_caption": false,
+  "z_s": 1.0,
+  "z_e": 1.05,
+  "px_s": 0.5,
+  "px_e": 0.5,
+  "py_s": 0.5,
+  "py_e": 0.5,
+  "roll_mode": "none",
+  "steps": 14,
+  "cfg": 5.5,
+  "logo_filename": "None",
+  "logo_x": 48,
+  "logo_y": 194,
+  "logo_w": 238,
+  "logo_h": 238,
+  "logo_opacity": 1.0,
+  "feedback_color_boost": 1.03,
+  "feedback_contrast_boost": 1.01,
+  "feedback_sharpness_boost": 1.1,
+  "lora1_strength": 0.8,
+  "lora2_strength": 0.8,
+  "lora3_strength": 0.8,
+  "use_visual_director": false,
+  "visual_director_interval": 25,
+  "visual_director_model": "moondream:latest",
+  "use_prompt_interpolation": false,
+  "use_video_interpolation": false,
+  "caption_font_size": 12,
+  "caption_x": 10,
+  "caption_y": 10,
+  "caption_bg_r": 61,
+  "caption_bg_g": 81,
+  "caption_bg_b": 92,
+  "caption_bg_a": 0.4,
+  "temp_caption_font_size": 20,
+  "temp_caption_x": 20,
+  "temp_caption_y": 20,
+  "temp_caption_bg_r": 0,
+  "temp_caption_bg_g": 0,
+  "temp_caption_bg_b": 0,
+  "temp_caption_bg_a": 0.5
+}
